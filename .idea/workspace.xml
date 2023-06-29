@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="" />
+    <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candy_rain/bin/js/game.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
       <workItem from="1687746350256" duration="766000" />
       <workItem from="1687747428625" duration="101000" />
       <workItem from="1688022261104" duration="1986000" />
-      <workItem from="1688025523098" duration="1153000" />
+      <workItem from="1688025523098" duration="1514000" />
     </task>
     <servers />
   </component>

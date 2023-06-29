@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candy_rain/bin/js/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/re/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/catch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/dice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/drum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/invasion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/ping pong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/simon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/snakegame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/space.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/textadventure.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re/tic.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +59,8 @@
       <workItem from="1687746350256" duration="766000" />
       <workItem from="1687747428625" duration="101000" />
       <workItem from="1688022261104" duration="1986000" />
-      <workItem from="1688025523098" duration="1514000" />
+      <workItem from="1688025523098" duration="1897000" />
+      <workItem from="1688035946279" duration="1065000" />
     </task>
     <servers />
   </component>

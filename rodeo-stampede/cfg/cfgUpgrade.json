@@ -1,0 +1,982 @@
+{
+    "Buffalo": {
+        "price": [
+            30,
+            40,
+            100,
+            150,
+            250,
+            350,
+            450,
+            550,
+            650,
+            3000
+        ],
+        "level": [
+            {
+                "key": 16,
+                "value": 2
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 10,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "When You Jump In The Air，Buffalo Will Move To Your Sling",
+            "Ride 2 More  Seconds Before Buffalo Rage",
+            "Transfer To The Buffalo And Go Forward, Smashing Everything In The Path",
+            "Gain An Extra 50% Ticket From The Buffalo",
+            "Rushing Time X2 After Transfer To The Buffalo ",
+            "Ride 1 More Seconds Before Buffalo Rage",
+            "Get Extra Gold When Ride Buffalo To Jump",
+            "The Herd Also Includes The Rare Buffalo X2",
+            "New Rare Buffalo Has Join In Ther Herd"
+        ]
+    },
+    "Zebra": {
+        "price": [
+            30,
+            40,
+            100,
+            150,
+            250,
+            350,
+            450,
+            550,
+            650,
+            4500
+        ],
+        "level": [
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 17,
+                "value": 2
+            },
+            {
+                "key": 8,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 9,
+                "value": 0.8
+            },
+            {
+                "key": 16,
+                "value": 2
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "Ride 2 More  Seconds Before Zebra Rage",
+            "Zebras Can Squeeze Other Animals When Jump In The Air",
+            "Transfer To A Zebra Does Not Reduce Your Sling",
+            "Gain An Extra 50% Ticket From The Zebra",
+            "A Raging Zebra Jumps Less",
+            "When You Jump In The Air，Zebra Will Move To Your Sling",
+            "Get Extra Gold When Ride Zebra To Jump",
+            "The Herd Also Includes The Rare Zebra X2",
+            "New Rare Zebra Has Join In Ther Herd"
+        ]
+    },
+    "Elephant": {
+        "price": [
+            60,
+            100,
+            200,
+            300,
+            450,
+            600,
+            800,
+            1100,
+            1600,
+            12000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 2
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Elephant X2",
+            "Ride 1 More  Seconds Before Elephant Rage",
+            " Elephant Can Drive Through Rock",
+            "Gain An Extra 50% Ticket From The Elephant",
+            "You Can Make It Knock To Other Elephants",
+            "Ride 1 More  Seconds Before Elephant Rage",
+            "Get Extra Coins While Riding Elephant To Smashing Obstacles",
+            "The Herd Also Includes The Rare Elephants X2",
+            "New Rare Elephant Has Join In Ther Herd"
+        ]
+    },
+    "Ostrich": {
+        "price": [
+            40,
+            80,
+            150,
+            200,
+            300,
+            450,
+            600,
+            750,
+            900,
+            6000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 14,
+                "value": 3
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 7,
+                "value": 0.2
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes  Ostrich x3",
+            "Ride 2 More  Seconds Before Ostrich Rage",
+            "When Riding Ostrich,  Wooden Box Coins X3",
+            "Gain An Extra 50% Ticket From Ostrich ",
+            "Riding A Violent Ostrich In A Collision, It Will Throw You Out",
+            "You Can Jump Further When Ride Ostrich ",
+            "Get Extra Gold Coins When Riding Ostrich With High Speed",
+            "The Herd Also Includes The Rare Ostrich X2",
+            "New Rare Ostrich Has Join In Ther Herd"
+        ]
+    },
+    "Giraffe": {
+        "price": [
+            100,
+            150,
+            250,
+            350,
+            450,
+            600,
+            750,
+            900,
+            1050,
+            7500
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 6,
+                "value": 0.2
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 7,
+                "value": 0.3
+            },
+            {
+                "key": 6,
+                "value": 0.2
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes  Giraffes x3",
+            "Jumping Off Giraffe Increases The Sling By 20% In Some Time",
+            "Giraffe Can Revive After Tripping Over ",
+            "Gain An Extra 50% Ticket From Giraffe",
+            "You Can Jump Further When Ride Giraffe ",
+            "Jumping Off Giraffe Increases The Sling By 20% In Some Time",
+            " Get Coins When You Jump Out Of Giraffe",
+            "The Herd Also Includes The Rare Giraffes x2",
+            "New Rare Giraffes Has Join In Ther Herd"
+        ]
+    },
+    "Vulture": {
+        "price": [
+            100,
+            250,
+            350,
+            500,
+            650,
+            800,
+            950,
+            1100,
+            1250,
+            9000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 1
+            },
+            {
+                "key": 11,
+                "value": 1
+            },
+            {
+                "key": 14,
+                "value": 5
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Vultures x2",
+            "Wild Vulture Will Perch On Lower Rocks",
+            "When Riding Vulture,  Wooden Box Coinsx5",
+            "Gain An Extra 50% Ticket From Vulture",
+            "Vulture In Dive Will Fly More Steadily",
+            "Ride 2 More  Seconds Before Vulture Rage",
+            "Get Extra Coins When Riding A Vulture In Dive",
+            "The Herd Also Includes The Rare Vultures x2",
+            "New Rare Vulture Has Join In Ther Herd"
+        ]
+    },
+    "Lion": {
+        "price": [
+            400,
+            500,
+            650,
+            800,
+            950,
+            1100,
+            1250,
+            1400,
+            1550,
+            10500
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 1,
+                "value": 1.5
+            },
+            {
+                "key": 12,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 13,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Lions x3",
+            "Eating Other Animals Keeps Lion Happy Longer",
+            "You Can Make Lion Eat Other Lions",
+            "Gain An Extra 50% Ticket From Lion",
+            "You Can Make Lion Eat Everything",
+            "Eating Other Animals Keeps Lion Happy For A Long Time",
+            "Get Extra Coins When Riding Lion Eat Others",
+            "The Herd Also Includes The Rare Lions x2",
+            "New Rare Lion Has Join In Ther Herd"
+        ]
+    },
+    "Boar": {
+        "price": [
+            300,
+            600,
+            750,
+            900,
+            1950,
+            2400,
+            2850,
+            3150,
+            4500,
+            22500
+        ],
+        "level": [
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 19,
+                "value": 0.75
+            },
+            {
+                "key": 18,
+                "value": 0.6
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 16,
+                "value": 2
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "Ride 2 More  Seconds Before Wild Boar Rage Rage",
+            "Riding Wild Boar Goes Faster When Wades Through A Puddle",
+            "Wild Boar Accelerates Slowly During Frenzy",
+            "Gain An Extra 50% Ticket From Wild Boar",
+            "When You Jump In The Air，Wild Boar Will Move To Your Sling",
+            "Ride 1 More  Seconds Before Wild Boar Rage Rage",
+            "Get Extra Gold When Ride  Wild Boar To Jump In The Air",
+            "The Herd Also Includes The Rare Wild Boar x2",
+            "New Rare Wild Boar Has Join In Ther Herd"
+        ]
+    },
+    "Gorilla": {
+        "price": [
+            400,
+            1200,
+            1500,
+            1800,
+            2250,
+            2550,
+            3000,
+            3450,
+            5400,
+            30000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 24,
+                "value": 1
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 23,
+                "value": 0.75
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Gorilla x3",
+            "Gorilla'S Punch Will Smash Into Obstacles",
+            "Hit Harder",
+            "Gain An Extra 50% Ticket From Gorilla",
+            "Ride 2 More  Seconds Before Gorilla Rage",
+            "Sling Will Be Bigger When Jump In The Air",
+            "Get Extra Coins When Gorillas Hit",
+            "The Herd Also Includes The Rare Gorilla x2",
+            "New Rare Gorilla  Has Join In Ther Herd"
+        ]
+    },
+    "Alligator": {
+        "price": [
+            500,
+            1200,
+            1500,
+            1800,
+            2250,
+            2700,
+            3150,
+            3600,
+            5400,
+            36000
+        ],
+        "level": [
+            {
+                "key": 19,
+                "value": 1.5
+            },
+            {
+                "key": 12,
+                "value": 1
+            },
+            {
+                "key": 4,
+                "value": 8
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 1,
+                "value": 1.5
+            },
+            {
+                "key": 13,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "Riding Crocodile Goes Faster When Wades Through A Puddle",
+            "You Can Make Crocodile Eat Other Crocodiles",
+            "When Ride Other Animals, The Crocodile Will Attack You More Slowly",
+            "Gain An Extra 50% Ticket From Crocodile",
+            "Eating Other Animals Keeps Crocodile Happy For A Long Time",
+            "You Can Make Crocodile Eat Everything",
+            "Get Extra Coins When Riding  Crocodile Eat Others",
+            "The Herd Also Includes The Rare Crocodile  x2",
+            "New Rare Crocodile  Has Join In Ther Herd"
+        ]
+    },
+    "Hippo": {
+        "price": [
+            500,
+            900,
+            1100,
+            1400,
+            1700,
+            2000,
+            2300,
+            2600,
+            4000,
+            28000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 20,
+                "value": 1.3
+            },
+            {
+                "key": 21,
+                "value": 0.01
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 2
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Hippo x3",
+            "After Leaving The Puddle, Hippo Energy Continue Extra 30%",
+            "The Charge Lasts Longer When Energy Is Full",
+            "Gain An Extra 50% Ticket From Hippo",
+            "Allows You To Start The Game With Full Energy",
+            "A Charging Hippo Can Smash Rocks",
+            "Get Extra Gold For Wading Through Puddles While Riding A Hippo",
+            "The Herd Also Includes The Rare  Hippo ×2",
+            "New Rare  Hippo  Has Join In Ther Herd"
+        ]
+    },
+    "Rhino": {
+        "price": [
+            900,
+            1500,
+            2000,
+            2300,
+            2600,
+            2900,
+            3200,
+            3600,
+            4400,
+            42000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 1
+            },
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 3,
+                "value": 2
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 22,
+                "value": 0.1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Rhino ×2",
+            "Smashing Things Increases The Rhino'S Speed",
+            "You Can Drive A Rhino Through A Rock",
+            "Gain An Extra 50% Ticket From Rhino",
+            "Increased Speed While Riding The Rhino",
+            "Ride 1 More  Seconds Before Rhino Rage",
+            "Get Extra Coins When You Ride A Rhino To Smash Through An Obstacle",
+            "The Herd Also Includes The Rare Rhino×2",
+            "New Rare Rhino  Has Join In Ther Herd"
+        ]
+    },
+    "Tiger": {
+        "price": [
+            1000,
+            2250,
+            2550,
+            3000,
+            3450,
+            3900,
+            4500,
+            5250,
+            6000,
+            49500
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 4,
+                "value": 1.5
+            },
+            {
+                "key": 19,
+                "value": 0.6
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 8,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes  Tiger ×3",
+            "Eating Wild Boar Keeps Lion Happy For A Long Time",
+            "Riding Tiger Goes Faster When Wades Through A Puddle",
+            "Gain An Extra 50% Ticket From Tiger",
+            "Transferring To A Tiger Does Not Reduce Your Sling",
+            "Eating Other Animals Keeps Lion Happy For A Long Time",
+            "Get Extra Coins When Riding Tiger Eat Others",
+            "The Herd Also Includes The Rare Tiger ×2",
+            "New Rare Tiger  Has Join In Ther Herd"
+        ]
+    },
+    "Toucan": {
+        "price": [
+            1400,
+            3300,
+            3750,
+            4200,
+            4650,
+            5100,
+            5550,
+            6150,
+            6600,
+            57000
+        ],
+        "level": [
+            {
+                "key": 0,
+                "value": 2
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 14,
+                "value": 5
+            },
+            {
+                "key": 15,
+                "value": 1.5
+            },
+            {
+                "key": 6,
+                "value": 0.3
+            },
+            {
+                "key": 1,
+                "value": 2
+            },
+            {
+                "key": 5,
+                "value": 1.66
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 1
+            }
+        ],
+        "info": [
+            "",
+            "The Herd Also Includes Tucano ×3",
+            "Ride 2 More  Seconds Before Tucano Rage",
+            "When Riding Tucano,  Wooden Box Coins×5",
+            "Gain An Extra 50% Ticket From Tucano",
+            "Jumping Off Tucano Increases The Sling By 30% In Some Time",
+            "Ride 2 More  Seconds Before Tucano Rage",
+            "Get Extra Coins When Riding Tucano In Dive",
+            "The Herd Also Includes The Rare Tucano ×2",
+            "New Rare Tucano  Has Join In Ther Herd"
+        ]
+    },
+    "AnimalCuddler": {
+        "price": [],
+        "level": [
+            {
+                "key": 4,
+                "value": 1
+            },
+            {
+                "key": 25,
+                "value": 2
+            },
+            {
+                "key": 0,
+                "value": 1
+            },
+            {
+                "key": 1,
+                "value": 1.5
+            },
+            {
+                "key": 25,
+                "value": 3
+            },
+            {
+                "key": 8,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 4
+            }
+        ],
+        "info": []
+    },
+    "AnimalChineseDragon": {
+        "price": [],
+        "level": [
+            {
+                "key": 0,
+                "value": 1
+            },
+            {
+                "key": 25,
+                "value": 2
+            },
+            {
+                "key": 3,
+                "value": 1
+            },
+            {
+                "key": 5,
+                "value": 1
+            },
+            {
+                "key": 25,
+                "value": 3
+            },
+            {
+                "key": 1,
+                "value": 1.5
+            },
+            {
+                "key": 71,
+                "value": 0.1
+            },
+            {
+                "key": 2,
+                "value": 2
+            },
+            {
+                "key": 25,
+                "value": 4
+            }
+        ],
+        "info": []
+    }
+}

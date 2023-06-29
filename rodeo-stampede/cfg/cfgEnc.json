@@ -1,0 +1,108 @@
+[
+    {
+        "res": "Epic",
+        "size": 1,
+        "id": 1000,
+        "name": "Epic",
+        "path": "ship_back.Epic_Enclosure",
+        "world": 0
+    },
+    {
+        "res": "Buffalo",
+        "size": 1,
+        "id": 1001,
+        "name": "Buffalo",
+        "world": 0
+    },
+    {
+        "res": "Zebra",
+        "size": 1,
+        "id": 1002,
+        "name": "Zebra",
+        "world": 0
+    },
+    {
+        "res": "Elephant",
+        "size": 2,
+        "id": 1003,
+        "name": "Elephant",
+        "world": 0
+    },
+    {
+        "res": "Ostrich",
+        "size": 1,
+        "id": 1004,
+        "name": "Ostrich",
+        "world": 0
+    },
+    {
+        "res": "Giraffe",
+        "size": 1,
+        "id": 1005,
+        "name": "Giraffe",
+        "world": 0
+    },
+    {
+        "res": "Vulture",
+        "size": 1,
+        "id": 1006,
+        "name": "Vulture",
+        "world": 0
+    },
+    {
+        "res": "Lion",
+        "size": 1,
+        "id": 1007,
+        "name": "Lion",
+        "world": 0
+    },
+    {
+        "res": "Boar",
+        "size": 1,
+        "id": 1008,
+        "name": "Boar",
+        "world": 1
+    },
+    {
+        "res": "Gorilla",
+        "size": 1,
+        "id": 1009,
+        "name": "Gorilla",
+        "world": 1
+    },
+    {
+        "res": "Alligator",
+        "size": 1,
+        "id": 1010,
+        "name": "Alligator",
+        "world": 1
+    },
+    {
+        "res": "Hippo",
+        "size": 1,
+        "id": 1011,
+        "name": "Hippo",
+        "world": 1
+    },
+    {
+        "res": "Rhino",
+        "size": 2,
+        "id": 1012,
+        "name": "Rhino",
+        "world": 1
+    },
+    {
+        "res": "Tiger",
+        "size": 1,
+        "id": 1013,
+        "name": "Tiger",
+        "world": 1
+    },
+    {
+        "res": "Toucan",
+        "size": 1,
+        "id": 1014,
+        "name": "Toucan",
+        "world": 1
+    }
+]

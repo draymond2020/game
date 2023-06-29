@@ -1,0 +1,283 @@
+{
+    "100": {
+        "name": "Random",
+        "res": "ship/Conventional/hat_randomHatButton.lh"
+    },
+    "101": {
+        "name": "Cowboy Hat",
+        "res": "ship/Conventional/hat_c_hat_Cowboyhat.lh"
+    },
+    "102": {
+        "name": "Blonde Curly Hair",
+        "res": "ship/Conventional/hat_c_hair_BlondeBunWBlueFascinator.lh"
+    },
+    "103": {
+        "name": "Ponytail",
+        "res": "ship/Conventional/hat_c_hair_BlondeHalfPonyTail.lh"
+    },
+    "104": {
+        "name": "Blue Fringe",
+        "res": "ship/Conventional/hat_c_hair_BlueFringe.lh"
+    },
+    "105": {
+        "name": "Bob Cut",
+        "res": "ship/Conventional/hat_c_hair_BobCut.lh"
+    },
+    "106": {
+        "name": "Afro",
+        "res": "ship/Conventional/hat_c_hair_Afro.lh"
+    },
+    "107": {
+        "name": "Long Brown Hair",
+        "res": "ship/Conventional/hat_c_hair_BrunetteBunWRedFascinator.lh"
+    },
+    "108": {
+        "name": "Brown Curly Hair",
+        "res": "ship/Conventional/hat_c_hair_BrunetteCurlUp.lh"
+    },
+    "110": {
+        "name": "Business Hair",
+        "res": "ship/Conventional/hat_c_hair_BusinessHair.lh"
+    },
+    "111": {
+        "name": "Chinese Topknot",
+        "res": "ship/Conventional/hat_c_hair_ChineseTopKnot.lh"
+    },
+    "113": {
+        "name": "Double Red Buns",
+        "res": "ship/Conventional/hat_c_hair_DoubleRedBuns.lh"
+    },
+    "114": {
+        "name": "Dreads",
+        "res": "ship/Conventional/hat_c_hair_Dreads.lh"
+    },
+    "115": {
+        "name": "Gary Hair",
+        "res": "ship/Conventional/hat_c_hair_GaryHair.lh"
+    },
+    "116": {
+        "name": "Hair band",
+        "res": "ship/Conventional/hat_c_hair_Hairband.lh"
+    },
+    "117": {
+        "name": "Head band",
+        "res": "ship/Conventional/hat_c_hair_Headband.lh"
+    },
+    "118": {
+        "name": "Head Scarf",
+        "res": "ship/Conventional/hat_c_hair_HeadScarf.lh"
+    },
+    "119": {
+        "name": "Imperial Moustache",
+        "res": "ship/Conventional/hat_c_hair_ImperialMoustache.lh"
+    },
+    "125": {
+        "name": "Larry Hair",
+        "res": "ship/Conventional/hat_c_hair_LarryHair.lh"
+    },
+    "126": {
+        "name": "Leonida's Beard",
+        "res": "ship/Conventional/hat_c_hair_LeonidasBeard.lh"
+    },
+    "127": {
+        "name": "Librarian Hair",
+        "res": "ship/Conventional/hat_c_hair_LibrarianHair.lh"
+    },
+    "128": {
+        "name": "Mohawk",
+        "res": "ship/Conventional/hat_c_hair_Mohawk.lh"
+    },
+    "129": {
+        "name": "Moustache",
+        "res": "ship/Conventional/hat_c_hair_Moustache.lh"
+    },
+    "130": {
+        "name": "Nerd Hair",
+        "res": "ship/Conventional/hat_c_hair_NerdHair.lh"
+    },
+    "131": {
+        "name": "Pig tails",
+        "res": "ship/Conventional/hat_c_hair_Pigtails.lh"
+    },
+    "132": {
+        "name": "Serious Business",
+        "res": "ship/Conventional/hat_c_hair_SeriousBusiness.lh"
+    },
+    "133": {
+        "name": "Sideburns",
+        "res": "ship/Conventional/hat_c_hair_Sideburns.lh"
+    },
+    "134": {
+        "name": "Side Fringe",
+        "res": "ship/Conventional/hat_c_hair_SideFringe.lh"
+    },
+    "135": {
+        "name": "Slouchy",
+        "res": "ship/Conventional/hat_c_hair_Slouchy.lh"
+    },
+    "136": {
+        "name": "Space Princess",
+        "res": "ship/Conventional/hat_c_hair_SpacePrincess.lh"
+    },
+    "137": {
+        "name": "Spiked",
+        "res": "ship/Conventional/hat_c_hair_Spiked.lh"
+    },
+    "138": {
+        "name": "TopBun",
+        "res": "ship/Conventional/hat_c_hair_topBun.lh"
+    },
+    "139": {
+        "name": "Undercut",
+        "res": "ship/Conventional/hat_c_hair_undercut.lh"
+    },
+    "140": {
+        "name": "Young Sapling",
+        "res": "ship/Conventional/hat_c_hair_YoungSapling.lh"
+    },
+    "141": {
+        "name": "3D Glasses",
+        "res": "ship/Conventional/hat_c_hat_3DGlasses.lh"
+    },
+    "142": {
+        "name": "Asian Conical Hat",
+        "res": "ship/Conventional/hat_c_hat_AsianConicalhat.lh"
+    },
+    "143": {
+        "name": "Aviators",
+        "res": "ship/Conventional/hat_c_hat_Aviators.lh"
+    },
+    "144": {
+        "name": "Backwards Cap",
+        "res": "ship/Conventional/hat_c_hat_BackwardsCap.lh"
+    },
+    "145": {
+        "name": "Bandana",
+        "res": "ship/Conventional/hat_c_hat_Bandana.lh"
+    },
+    "146": {
+        "name": "Baseball Cap",
+        "res": "ship/Conventional/hat_c_hat_BaseballCap.lh"
+    },
+    "147": {
+        "name": "Beret",
+        "res": "ship/Conventional/hat_c_hat_Beret.lh"
+    },
+    "148": {
+        "name": "Black Tophat",
+        "res": "ship/Conventional/hat_c_hat_BlackTophat.lh"
+    },
+    "149": {
+        "name": "Black Trilby",
+        "res": "ship/Conventional/hat_c_hat_BlackTrilbyWRedBand.lh"
+    },
+    "150": {
+        "name": "Blue Boater Hat",
+        "res": "ship/Conventional/hat_c_hat_BlueBoaterhatWWhiteBand.lh"
+    },
+    "151": {
+        "name": "Book Hat",
+        "res": "ship/Conventional/hat_c_hat_BookhatWRedTassel.lh"
+    },
+    "153": {
+        "name": "Braided Red Fascinator",
+        "res": "ship/Conventional/hat_c_hair_BraidedWRedFascinator.lh",
+        "clothing": {}
+    },
+    "152": {
+        "name": "Confetti Party Hat",
+        "res": "ship/Conventional/hat_c_hat_ConfettiPartyhat.lh"
+    },
+    "154": {
+        "name": "Eyepatch",
+        "res": "ship/Conventional/hat_c_hat_Eyepatch.lh"
+    },
+    "155": {
+        "name": "Fez",
+        "res": "ship/Conventional/hat_c_hat_Fez.lh"
+    },
+    "156": {
+        "name": "Goatee",
+        "res": "ship/Conventional/hat_c_hat_Goatee.lh"
+    },
+    "157": {
+        "name": "Goggles",
+        "res": "ship/Conventional/hat_c_hat_Goggles.lh"
+    },
+    "158": {
+        "name": "Hardhat",
+        "res": "ship/Conventional/hat_c_hat_Hardhat.lh"
+    },
+    "159": {
+        "name": "Headphones",
+        "res": "ship/Conventional/hat_c_hat_Headphones.lh"
+    },
+    "160": {
+        "name": "Kefiyeh",
+        "res": "ship/Conventional/hat_c_hat_Kefiyeh.lh"
+    },
+    "161": {
+        "name": "Laurel Crown",
+        "res": "ship/Conventional/hat_c_hat_LaurelCrown.lh"
+    },
+    "162": {
+        "name": "Leafhat",
+        "res": "ship/Conventional/hat_c_hat_Leafhat.lh"
+    },
+    "163": {
+        "name": "Mask",
+        "res": "ship/Conventional/hat_c_hat_Mask.lh"
+    },
+    "164": {
+        "name": "Paper Bag",
+        "res": "ship/Conventional/hat_c_hat_PaperBag.lh"
+    },
+    "165": {
+        "name": "Red Boater Hat",
+        "res": "ship/Conventional/hat_c_hat_redBoaterhat.lh"
+    },
+    "166": {
+        "name": "Safety Visor",
+        "res": "ship/Conventional/hat_c_hat_SafetyVisor.lh"
+    },
+    "167": {
+        "name": "Sailor Cap",
+        "res": "ship/Conventional/hat_c_hat_SailorCap.lh"
+    },
+    "168": {
+        "name": "Shutter Shades",
+        "res": "ship/Conventional/hat_c_hat_ShutterShades.lh"
+    },
+    "169": {
+        "name": "Sombrero",
+        "res": "ship/Conventional/hat_c_hat_Sombrero.lh"
+    },
+    "170": {
+        "name": "Striped Party Hat",
+        "res": "ship/Conventional/hat_c_hat_StripedPartyhat.lh"
+    },
+    "171": {
+        "name": "Swimming Goggles",
+        "res": "ship/Conventional/hat_c_hat_SwimmingGoggles.lh"
+    },
+    "172": {
+        "name": "Tamosh",
+        "res": "ship/Conventional/hat_c_hat_Tamosh.lh"
+    },
+    "173": {
+        "name": "Turban",
+        "res": "ship/Conventional/hat_c_hat_Turban.lh"
+    },
+    "174": {
+        "name": "Visor.",
+        "res": "ship/Conventional/hat_c_hat_Visor.lh"
+    },
+    "175": {
+        "name": "White Trilby",
+        "res": "ship/Conventional/hat_c_hat_WhiteTrilby.lh"
+    },
+    "176": {
+        "name": "Xmas Hat",
+        "res": "ship/Conventional/hat_c_hat_XmasHat.lh"
+    }
+}

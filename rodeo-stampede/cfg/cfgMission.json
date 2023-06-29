@@ -1,0 +1,4556 @@
+[
+    {
+        "id": 0,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1002,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame A Zebra"
+    },
+    {
+        "id": 1,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride A Buffalo In Game×4"
+    },
+    {
+        "id": 2,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride On The Buffalo To Keep 6s"
+    },
+    {
+        "id": 3,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 102,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Jungle Buffalo"
+    },
+    {
+        "id": 4,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 300,
+        "area": 0,
+        "dec": "Run 300m In The Savanna Single Set"
+    },
+    {
+        "id": 5,
+        "difficulty": 0,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride On The Zebra To Keep 6s"
+    },
+    {
+        "id": 6,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 5,
+        "area": 0,
+        "dec": "Smash Bush×5 In The Savanna"
+    },
+    {
+        "id": 7,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 800,
+        "area": 0,
+        "dec": "Run 800m In The Savanna Single Set"
+    },
+    {
+        "id": 8,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Buffalo X5 In A Set"
+    },
+    {
+        "id": 9,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 8,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 8 Seconds"
+    },
+    {
+        "id": 10,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1003,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame An Elephant"
+    },
+    {
+        "id": 11,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1003,
+        "value": 3,
+        "area": 0,
+        "dec": "Tame Elephant×3"
+    },
+    {
+        "id": 12,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1001,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride Buffalo Continuously×6"
+    },
+    {
+        "id": 13,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 400,
+        "area": 0,
+        "dec": "Run 400m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 14,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×6"
+    },
+    {
+        "id": 15,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Bush×10 In The Savanna"
+    },
+    {
+        "id": 16,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1000,
+        "area": 0,
+        "dec": "Run 1000m In The Savanna Single Set"
+    },
+    {
+        "id": 17,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1001,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride Buffalo Continuously×6"
+    },
+    {
+        "id": 18,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride Buffalo X6 In A Set"
+    },
+    {
+        "id": 19,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 9,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 9 Seconds"
+    },
+    {
+        "id": 20,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1003,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Elephant Continuously×2"
+    },
+    {
+        "id": 21,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1004,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame An Ostrich"
+    },
+    {
+        "id": 22,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 800,
+        "area": 0,
+        "dec": "Run 800m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 23,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 6 Seconds"
+    },
+    {
+        "id": 24,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1200,
+        "area": 0,
+        "dec": "Run 1200m In The Savanna Single Set"
+    },
+    {
+        "id": 25,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride Buffalo X8 In A Set"
+    },
+    {
+        "id": 26,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 12,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 12 Seconds"
+    },
+    {
+        "id": 27,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×3"
+    },
+    {
+        "id": 28,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Zebra For 6 Seconds"
+    },
+    {
+        "id": 29,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1005,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame A Giraffe"
+    },
+    {
+        "id": 30,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1000,
+        "area": 0,
+        "dec": "Run 1000m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 31,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 6 Seconds"
+    },
+    {
+        "id": 32,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1800,
+        "area": 0,
+        "dec": "Run 1800m In The Savanna Single Set"
+    },
+    {
+        "id": 33,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 15,
+        "area": 0,
+        "dec": "Ride Buffalo X15 In A Set"
+    },
+    {
+        "id": 34,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Bush×10 In The Savanna"
+    },
+    {
+        "id": 35,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 20,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 20 Seconds"
+    },
+    {
+        "id": 36,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1004,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Ostrich Continuously×2"
+    },
+    {
+        "id": 37,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride 3 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 38,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 10,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 10Seconds"
+    },
+    {
+        "id": 39,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 800,
+        "area": 0,
+        "dec": "Run 800m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 40,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1007,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame A Lion"
+    },
+    {
+        "id": 41,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1400,
+        "area": 0,
+        "dec": "Run 1400m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 42,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 30,
+        "area": 0,
+        "dec": "Ride Buffalo X30 In A Set"
+    },
+    {
+        "id": 43,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 9,
+        "area": 0,
+        "dec": "Stay On The Zebra For 9 Seconds"
+    },
+    {
+        "id": 44,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1004,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride  Ostrich Continuously×3"
+    },
+    {
+        "id": 45,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2000,
+        "area": 0,
+        "dec": "Run 2000m In The Savanna Single Set"
+    },
+    {
+        "id": 46,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe X2 In A Set"
+    },
+    {
+        "id": 47,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride 4 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 48,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1000,
+        "area": 0,
+        "dec": "Run 1000m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 49,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Ostrich×5"
+    },
+    {
+        "id": 50,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1006,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame A Vultures"
+    },
+    {
+        "id": 51,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1005,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Giraffe For 6 Seconds"
+    },
+    {
+        "id": 52,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 0,
+        "dec": "Run 1500m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 53,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1004,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Ostrich Continuously×2"
+    },
+    {
+        "id": 54,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Trees×8 In The Savanna"
+    },
+    {
+        "id": 55,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2800,
+        "area": 0,
+        "dec": "Run 2800m In The Savanna Single Set"
+    },
+    {
+        "id": 56,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1004,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Ostrich X2 In A Set"
+    },
+    {
+        "id": 57,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 10,
+        "area": 0,
+        "dec": "Stay On The Zebra For 10 Seconds"
+    },
+    {
+        "id": 58,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Trees×8 In The Savanna"
+    },
+    {
+        "id": 59,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×3"
+    },
+    {
+        "id": 60,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1005,
+        "value": 4,
+        "area": 0,
+        "dec": " "
+    },
+    {
+        "id": 61,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride 5 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 62,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride 4 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 63,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Trees×10 In The Savanna"
+    },
+    {
+        "id": 64,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1002,
+        "value": 7,
+        "area": 0,
+        "dec": "Ride Zebra×7"
+    },
+    {
+        "id": 65,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 103,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Buffalo"
+    },
+    {
+        "id": 66,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 6 Seconds"
+    },
+    {
+        "id": 67,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 500,
+        "area": 0,
+        "dec": "Run 500m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 68,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Ostrich×5"
+    },
+    {
+        "id": 69,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Trees×20 In The Savanna"
+    },
+    {
+        "id": 70,
+        "difficulty": 2,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 3000,
+        "area": 0,
+        "dec": "Run 3000m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 71,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1002,
+        "value": 7,
+        "area": 0,
+        "dec": "Ride Zebra×7"
+    },
+    {
+        "id": 72,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1004,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride  Ostrich X4 In A Set"
+    },
+    {
+        "id": 73,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 15,
+        "area": 0,
+        "dec": "Stay On The Zebra For 15 Seconds"
+    },
+    {
+        "id": 74,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×8"
+    },
+    {
+        "id": 75,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1003,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Elephant X2 In A Set"
+    },
+    {
+        "id": 76,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride 3 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 77,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride 5 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 78,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Trees×20 In The Savanna"
+    },
+    {
+        "id": 79,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1005,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Giraffe×5"
+    },
+    {
+        "id": 80,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1002,
+        "value": 9,
+        "area": 0,
+        "dec": "Stay On The Zebra For 9 Seconds"
+    },
+    {
+        "id": 81,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 104,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame American Buffalo"
+    },
+    {
+        "id": 82,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1200,
+        "area": 0,
+        "dec": "Run 1200m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 83,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1005,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Giraffe X4 In A Set"
+    },
+    {
+        "id": 84,
+        "difficulty": 0,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1100,
+        "area": 0,
+        "dec": "Run 1100m In The Savanna Single Set"
+    },
+    {
+        "id": 85,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1004,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride  Ostrich X6 In A Set"
+    },
+    {
+        "id": 86,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 8,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 8 Seconds"
+    },
+    {
+        "id": 87,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe Continuously×2"
+    },
+    {
+        "id": 88,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×8"
+    },
+    {
+        "id": 89,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1003,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Elephant X4 In A Set"
+    },
+    {
+        "id": 90,
+        "difficulty": 0,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride 4 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 91,
+        "difficulty": 1,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride 6 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 92,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2800,
+        "area": 0,
+        "dec": "Run 2800m In The Savanna Single Set"
+    },
+    {
+        "id": 93,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 122,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Brass Zebra"
+    },
+    {
+        "id": 94,
+        "difficulty": 2,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 0,
+        "dec": "Run 1500m In The Savanna Single Set Without Transfering"
+    },
+    {
+        "id": 95,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Ostrich×5"
+    },
+    {
+        "id": 96,
+        "difficulty": 0,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1300,
+        "area": 0,
+        "dec": "Run 1300m In The Savanna Single Set"
+    },
+    {
+        "id": 97,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1002,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride  Zebra X4 In A Set"
+    },
+    {
+        "id": 98,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 12,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 12 Seconds"
+    },
+    {
+        "id": 99,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1005,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Giraffe Continuously×3"
+    },
+    {
+        "id": 100,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1006,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Vultures X2 In A Set"
+    },
+    {
+        "id": 101,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride 5 Kinds Of Animals Continuously In The Savanna"
+    },
+    {
+        "id": 102,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride 4 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 103,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×3"
+    },
+    {
+        "id": 104,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1005,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Giraffe X4 In A Set"
+    },
+    {
+        "id": 105,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 123,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Mint Zebra"
+    },
+    {
+        "id": 106,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Trees×8 In The Savanna"
+    },
+    {
+        "id": 107,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2000,
+        "area": 0,
+        "dec": "Run 2000m In The Savanna Single Set"
+    },
+    {
+        "id": 108,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1002,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride  Zebra X8 In A Set"
+    },
+    {
+        "id": 109,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 17,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 17 Seconds"
+    },
+    {
+        "id": 110,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1001,
+        "value": 12,
+        "area": 0,
+        "dec": "Ride Buffalo Continuously×12"
+    },
+    {
+        "id": 111,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1006,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride  Vultures X4 In A Set"
+    },
+    {
+        "id": 112,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1001,
+        "value": 8,
+        "area": 0,
+        "dec": "Stay On The Buffalo For 8 Seconds"
+    },
+    {
+        "id": 113,
+        "difficulty": 1,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride 5 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 114,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1005,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Giraffe For 6 Seconds"
+    },
+    {
+        "id": 115,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1001,
+        "value": 40,
+        "area": 0,
+        "dec": "Jump Off The Buffalo For 40 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 116,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 125,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Frowsty Coquettish Zebra"
+    },
+    {
+        "id": 117,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 0,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Obstacles×20 In The Savanna"
+    },
+    {
+        "id": 118,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Trees×20 In The Savanna"
+    },
+    {
+        "id": 119,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 0,
+        "dec": "Run 2500m In The Savanna Single Set"
+    },
+    {
+        "id": 120,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1002,
+        "value": 12,
+        "area": 0,
+        "dec": "Ride  Zebra X12 In A Set"
+    },
+    {
+        "id": 121,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1007,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Lion For 6 Seconds"
+    },
+    {
+        "id": 122,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1003,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride  Elephant Continuously×3"
+    },
+    {
+        "id": 123,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 15,
+        "area": 0,
+        "dec": "Ride Buffalo X15 In A Set"
+    },
+    {
+        "id": 124,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1004,
+        "value": 12,
+        "area": 0,
+        "dec": "Stay On The Ostrich For 12 Seconds"
+    },
+    {
+        "id": 125,
+        "difficulty": 1,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 6,
+        "area": 0,
+        "dec": "Ride 6 Kinds Of Animals At One Set In The Savanna"
+    },
+    {
+        "id": 126,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Trees×20 In The Savanna"
+    },
+    {
+        "id": 127,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1001,
+        "value": 50,
+        "area": 0,
+        "dec": "Jump Off The Buffalo For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 128,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 142,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Mammut"
+    },
+    {
+        "id": 129,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 30,
+        "area": 0,
+        "dec": "Smash Trees×30 In The Savanna"
+    },
+    {
+        "id": 130,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1007,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Lion X2 In A Set"
+    },
+    {
+        "id": 131,
+        "difficulty": 0,
+        "type": "RIDE_STAY",
+        "target": 1007,
+        "value": 10,
+        "area": 0,
+        "dec": "Stay On The Lion For 10 Seconds"
+    },
+    {
+        "id": 132,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1001,
+        "value": 10,
+        "area": 0,
+        "dec": "Ride Buffalo Continuously×10"
+    },
+    {
+        "id": 133,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1004,
+        "value": 7,
+        "area": 0,
+        "dec": "Ride  Ostrich X7 In A Set"
+    },
+    {
+        "id": 134,
+        "difficulty": 1,
+        "type": "CRASH_IN_ONE",
+        "target": 0,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Obstacles×8 In The Savanna In Single Set"
+    },
+    {
+        "id": 135,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×4"
+    },
+    {
+        "id": 136,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1004,
+        "value": 50,
+        "area": 0,
+        "dec": "Jump Off The Ostrich For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 137,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 143,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Elephant Count"
+    },
+    {
+        "id": 138,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Rocks×8 In The Savanna"
+    },
+    {
+        "id": 139,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1007,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Lion X4 In A Set"
+    },
+    {
+        "id": 140,
+        "difficulty": 0,
+        "type": "RIDE_STAY",
+        "target": 1006,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Vultures For 6 Seconds"
+    },
+    {
+        "id": 141,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1004,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Ostrich Continuously×2"
+    },
+    {
+        "id": 142,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1002,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride  Zebra X8 In A Set"
+    },
+    {
+        "id": 143,
+        "difficulty": 2,
+        "type": "CRASH_IN_ONE",
+        "target": 0,
+        "value": 15,
+        "area": 0,
+        "dec": "Smash Obstacles×15 In The Savanna In Single Set"
+    },
+    {
+        "id": 144,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Trees×10 In The Savanna"
+    },
+    {
+        "id": 145,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1004,
+        "value": 80,
+        "area": 0,
+        "dec": "Jump Off The Ostrich For 80 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 146,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 144,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Hippie Elephant"
+    },
+    {
+        "id": 147,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 3,
+        "value": 20,
+        "area": 0,
+        "dec": "Smash Rocks×20 In The Savanna"
+    },
+    {
+        "id": 148,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1006,
+        "value": 10,
+        "area": 0,
+        "dec": "Stay On The Vultures For 10 Seconds"
+    },
+    {
+        "id": 149,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1006,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Vultures Continuously×2"
+    },
+    {
+        "id": 150,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe X2 In A Set"
+    },
+    {
+        "id": 151,
+        "difficulty": 0,
+        "type": "CRASH_IN_ONE",
+        "target": 1,
+        "value": 4,
+        "area": 0,
+        "dec": "Smash Bushes×4 In The Savanna"
+    },
+    {
+        "id": 152,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1007,
+        "value": 6,
+        "area": 0,
+        "dec": "Stay On The Lion For 6 Seconds"
+    },
+    {
+        "id": 153,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1002,
+        "value": 40,
+        "area": 0,
+        "dec": "Jump Off The Zebra For 40 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 154,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 162,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Proud Ostrich"
+    },
+    {
+        "id": 155,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1006,
+        "value": 18,
+        "area": 0,
+        "dec": "Stay On The Vultures For 18 Seconds"
+    },
+    {
+        "id": 156,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1006,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Vultures Continuously×3"
+    },
+    {
+        "id": 157,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1007,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Lion X3 In A Set"
+    },
+    {
+        "id": 158,
+        "difficulty": 1,
+        "type": "CRASH_IN_ONE",
+        "target": 1,
+        "value": 6,
+        "area": 0,
+        "dec": "Smash Bushes×6 In The Savanna"
+    },
+    {
+        "id": 159,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Rocks×10 In The Savanna"
+    },
+    {
+        "id": 160,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1007,
+        "value": 40,
+        "area": 0,
+        "dec": "Jump Off The Lion For 40 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 161,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 163,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Ostrich Player"
+    },
+    {
+        "id": 162,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1001,
+        "value": 20,
+        "area": 0,
+        "dec": "Ride Buffalo Continuously×20"
+    },
+    {
+        "id": 163,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1003,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride Elephant X3 In A Set"
+    },
+    {
+        "id": 164,
+        "difficulty": 1,
+        "type": "CRASH_IN_ONE",
+        "target": 1,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Bush×10 In The Savanna In A Set"
+    },
+    {
+        "id": 165,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1005,
+        "value": 70,
+        "area": 0,
+        "dec": "Jump Off The Giraffe For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 166,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 164,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Knight Ostrich"
+    },
+    {
+        "id": 167,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1007,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Lion Continuously×2"
+    },
+    {
+        "id": 168,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1006,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Vultures X2 In A Set"
+    },
+    {
+        "id": 169,
+        "difficulty": 0,
+        "type": "CRASH_IN_ONE",
+        "target": 2,
+        "value": 4,
+        "area": 0,
+        "dec": "Smash Trees×4 In The Savanna In A Set"
+    },
+    {
+        "id": 170,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1001,
+        "value": 14,
+        "area": 0,
+        "dec": "Ride Buffalo×14"
+    },
+    {
+        "id": 171,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1005,
+        "value": 90,
+        "area": 0,
+        "dec": "Jump Off The Giraffe For 90 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 172,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 182,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Coal-Burning Giraffe"
+    },
+    {
+        "id": 173,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 15,
+        "area": 0,
+        "dec": "Smash Obstacles×15 In The Savanna"
+    },
+    {
+        "id": 174,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe Continuously×2"
+    },
+    {
+        "id": 175,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1007,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Lion X4 In A Set"
+    },
+    {
+        "id": 176,
+        "difficulty": 1,
+        "type": "CRASH_IN_ONE",
+        "target": 2,
+        "value": 8,
+        "area": 0,
+        "dec": "Smash Trees×8 In The Savanna In A Set"
+    },
+    {
+        "id": 177,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1001,
+        "value": 30,
+        "area": 0,
+        "dec": "Ride Buffalo X30 In A Set"
+    },
+    {
+        "id": 178,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1003,
+        "value": 70,
+        "area": 0,
+        "dec": "Jump Off The Elephant For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 179,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 183,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Burrito Deer"
+    },
+    {
+        "id": 180,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 30,
+        "area": 0,
+        "dec": "Smash Obstacles×30 In The Savanna"
+    },
+    {
+        "id": 181,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1003,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Elephant Continuously×2"
+    },
+    {
+        "id": 182,
+        "difficulty": 0,
+        "type": "CRASH_IN_ONE",
+        "target": 3,
+        "value": 4,
+        "area": 0,
+        "dec": "Smash Rocks×4 In The Savanna In A Set"
+    },
+    {
+        "id": 183,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1001,
+        "value": 60,
+        "area": 0,
+        "dec": "Ride Buffalo×60"
+    },
+    {
+        "id": 184,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1006,
+        "value": 60,
+        "area": 0,
+        "dec": "Jump Off The Vulture For 60 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 185,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 184,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Globetrotter"
+    },
+    {
+        "id": 186,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 15,
+        "area": 0,
+        "dec": "Smash Bush×15 In The Savanna"
+    },
+    {
+        "id": 187,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1001,
+        "value": 14,
+        "area": 0,
+        "dec": "Ride Buffalo×14"
+    },
+    {
+        "id": 188,
+        "difficulty": 2,
+        "type": "RIDE_SAME_CNT",
+        "target": 1007,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride  Lion Continuously×2"
+    },
+    {
+        "id": 189,
+        "difficulty": 1,
+        "type": "CRASH_IN_ONE",
+        "target": 3,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Rocks×10 In The Savanna In A Set"
+    },
+    {
+        "id": 190,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Ostrich×5"
+    },
+    {
+        "id": 191,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 25,
+        "value": 10,
+        "area": 0,
+        "dec": "Complete 10 25Meter Jumps In Savanna"
+    },
+    {
+        "id": 192,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 202,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Egyptian Vulture"
+    },
+    {
+        "id": 193,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 0,
+        "dec": "Smash Bush×25 In The Savanna"
+    },
+    {
+        "id": 194,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 60,
+        "area": 0,
+        "dec": "Smash Obstacles×60 In The Savanna"
+    },
+    {
+        "id": 195,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1007,
+        "value": 3,
+        "area": 0,
+        "dec": "Ride  Lion Continuously×3"
+    },
+    {
+        "id": 196,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 10,
+        "area": 0,
+        "dec": "Ride Ostrich×10"
+    },
+    {
+        "id": 197,
+        "difficulty": 0,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 2,
+        "area": 0,
+        "dec": "Complete 2 40Meter Jumps In Savanna"
+    },
+    {
+        "id": 198,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1007,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Lion×4"
+    },
+    {
+        "id": 199,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Trees×10 In The Savanna "
+    },
+    {
+        "id": 200,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1002,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Zebra Continuously×5"
+    },
+    {
+        "id": 201,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1004,
+        "value": 15,
+        "area": 0,
+        "dec": "Ride Ostrich×15"
+    },
+    {
+        "id": 202,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 8,
+        "area": 0,
+        "dec": "Complete 8 40Meter Jumps In Savanna"
+    },
+    {
+        "id": 203,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 204,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame Capital Egle"
+    },
+    {
+        "id": 204,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 25,
+        "area": 0,
+        "dec": "Smash Trees×25 In The Savanna"
+    },
+    {
+        "id": 205,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe Continuously×2"
+    },
+    {
+        "id": 206,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1002,
+        "value": 7,
+        "area": 0,
+        "dec": "Ride Zebra×7"
+    },
+    {
+        "id": 207,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 20,
+        "area": 0,
+        "dec": "Complete 20 40Meter Jumps In Savanna"
+    },
+    {
+        "id": 208,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 222,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Green Lion"
+    },
+    {
+        "id": 209,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Rocks×10 In The Savanna"
+    },
+    {
+        "id": 210,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1001,
+        "value": 50,
+        "area": 0,
+        "dec": "Ride Buffalo×50"
+    },
+    {
+        "id": 211,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1006,
+        "value": 4,
+        "area": 0,
+        "dec": "Ride Vultures×4"
+    },
+    {
+        "id": 212,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 3,
+        "value": 25,
+        "area": 0,
+        "dec": "Smash Rocks×25 In The Savanna"
+    },
+    {
+        "id": 213,
+        "difficulty": 1,
+        "type": "RIDE_SAME_CNT",
+        "target": 1004,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Ostrich Continuously×2"
+    },
+    {
+        "id": 214,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1002,
+        "value": 20,
+        "area": 0,
+        "dec": "Ride Zebra×20"
+    },
+    {
+        "id": 215,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 80,
+        "value": 5,
+        "area": 0,
+        "dec": "Complete 5 80Meter Jumps In Savanna"
+    },
+    {
+        "id": 216,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 224,
+        "value": 1,
+        "area": 0,
+        "dec": "To Tame The Griffin"
+    },
+    {
+        "id": 217,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 0,
+        "value": 25,
+        "area": 0,
+        "dec": "Smash Obstacles×25 In The Savanna"
+    },
+    {
+        "id": 218,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 0,
+        "dec": "Smash Rocks×10 In The Jungle"
+    },
+    {
+        "id": 219,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1003,
+        "value": 3,
+        "area": 0,
+        "dec": "Tame Elephant×3"
+    },
+    {
+        "id": 220,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 25,
+        "value": 5,
+        "area": 0,
+        "dec": "Complete 5 25Meter Jumps In Savanna"
+    },
+    {
+        "id": 221,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 50,
+        "area": 0,
+        "dec": "Smash Obstacles×50 In The Savanna"
+    },
+    {
+        "id": 222,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1001,
+        "value": 80,
+        "area": 0,
+        "dec": "Ride Buffalo×80"
+    },
+    {
+        "id": 223,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1003,
+        "value": 5,
+        "area": 0,
+        "dec": "Tame Elephant×5"
+    },
+    {
+        "id": 224,
+        "difficulty": 1,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 40,
+        "value": 2,
+        "area": 0,
+        "dec": "Complete 2 40 Meter Jumps In Savanna"
+    },
+    {
+        "id": 225,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 60,
+        "area": 0,
+        "dec": "Smash Obstacles×60 In The Savanna"
+    },
+    {
+        "id": 226,
+        "difficulty": 0,
+        "type": "RIDE_SAME_CNT",
+        "target": 1005,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Giraffe Continuously×2"
+    },
+    {
+        "id": 227,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1003,
+        "value": 5,
+        "area": 0,
+        "dec": "Tame Elephant×5"
+    },
+    {
+        "id": 228,
+        "difficulty": 1,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 40,
+        "value": 4,
+        "area": 0,
+        "dec": "Complete 4 40 Meter Jumps In Savanna"
+    },
+    {
+        "id": 229,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1005,
+        "value": 5,
+        "area": 0,
+        "dec": "Ride Giraffe×5"
+    },
+    {
+        "id": 230,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 40,
+        "value": 8,
+        "area": 0,
+        "dec": "Complete 8 40 Meter Jumps In Savanna"
+    },
+    {
+        "id": 231,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1005,
+        "value": 10,
+        "area": 0,
+        "dec": "Ride Giraffe×10"
+    },
+    {
+        "id": 232,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 50,
+        "value": 2,
+        "area": 0,
+        "dec": "Complete 2 50 Meter Jumps In Savanna"
+    },
+    {
+        "id": 233,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1006,
+        "value": 2,
+        "area": 0,
+        "dec": "Ride Vultures×2"
+    },
+    {
+        "id": 234,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 80,
+        "value": 3,
+        "area": 0,
+        "dec": "Complete 3 80 Meter Jumps In Savanna"
+    },
+    {
+        "id": 235,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1002,
+        "value": 15,
+        "area": 0,
+        "dec": "Ride Zebra×15"
+    },
+    {
+        "id": 236,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1007,
+        "value": 10,
+        "area": 0,
+        "dec": "Ride Lion×10"
+    },
+    {
+        "id": 237,
+        "difficulty": 1,
+        "type": "JUMP_LONG",
+        "target": 60,
+        "value": 2,
+        "area": 0,
+        "dec": "Complete 2 60 Meter Jumps In Savanna"
+    },
+    {
+        "id": 238,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1006,
+        "value": 8,
+        "area": 0,
+        "dec": "Ride Vultures×8"
+    },
+    {
+        "id": 239,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1005,
+        "value": 70,
+        "area": 0,
+        "dec": "Jump Off The Giraffe For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 240,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 203,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Idol Vulture"
+    },
+    {
+        "id": 241,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 223,
+        "value": 1,
+        "area": 0,
+        "dec": "Tame The Saber-Toothed Lion"
+    },
+    {
+        "id": 242,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1008,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame A Wild Boar"
+    },
+    {
+        "id": 243,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1100,
+        "area": 1,
+        "dec": "Run 1100m In The Savanna Single Set"
+    },
+    {
+        "id": 244,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1008,
+        "value": 9,
+        "area": 1,
+        "dec": "Stay On The Wild Boar For 9 Seconds"
+    },
+    {
+        "id": 245,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Bush×15 In The Jungle"
+    },
+    {
+        "id": 246,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1000,
+        "area": 1,
+        "dec": "Run 1000m In The Savanna Single Set"
+    },
+    {
+        "id": 247,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1010,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Crocodile"
+    },
+    {
+        "id": 248,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1300,
+        "area": 1,
+        "dec": "Run 1300m In The Savanna Single Set"
+    },
+    {
+        "id": 249,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 400,
+        "area": 1,
+        "dec": "Run 400m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 250,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1010,
+        "value": 12,
+        "area": 1,
+        "dec": "Stay On The Crocodile  For 12 Seconds"
+    },
+    {
+        "id": 251,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1200,
+        "area": 1,
+        "dec": "Run 1200m In The Savanna Single Set"
+    },
+    {
+        "id": 252,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 0,
+        "value": 60,
+        "area": 0,
+        "dec": "Smash Obstacles×60 In The Savanna"
+    },
+    {
+        "id": 253,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 16,
+        "area": 1,
+        "dec": "Ride Wild Boar  X16 In A Set"
+    },
+    {
+        "id": 254,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1007,
+        "value": 6,
+        "area": 0,
+        "dec": "Crocodile "
+    },
+    {
+        "id": 255,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 5,
+        "area": 1,
+        "dec": "Smash Trees×5 In The Jungle"
+    },
+    {
+        "id": 256,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Savanna Single Set"
+    },
+    {
+        "id": 257,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1009,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Gorilla"
+    },
+    {
+        "id": 258,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2000,
+        "area": 1,
+        "dec": "Run 2000m In The Savanna Single Set"
+    },
+    {
+        "id": 259,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 500,
+        "area": 1,
+        "dec": "Run 500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 260,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1010,
+        "value": 10,
+        "area": 1,
+        "dec": "Stay On The Lion  For 10 Seconds"
+    },
+    {
+        "id": 261,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 20,
+        "area": 1,
+        "dec": "Smash Bush×20 In The Jungle "
+    },
+    {
+        "id": 262,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1800,
+        "area": 1,
+        "dec": "Run 1800m In The Savanna Single Set"
+    },
+    {
+        "id": 263,
+        "difficulty": 2,
+        "type": "RUN",
+        "target": 0,
+        "value": 3000,
+        "area": 1,
+        "dec": "Run 3000m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 264,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 20,
+        "area": 1,
+        "dec": "Ride Wild Boar  X20 In A Set"
+    },
+    {
+        "id": 265,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1009,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Gorilla  For 14 Seconds"
+    },
+    {
+        "id": 266,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Trees×10 In The Jungle"
+    },
+    {
+        "id": 267,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Bush×15 In The Jungle"
+    },
+    {
+        "id": 268,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1012,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Rhino"
+    },
+    {
+        "id": 269,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 17,
+        "area": 1,
+        "dec": "Ride Wild Boar  X17 In A Set"
+    },
+    {
+        "id": 270,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 271,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 800,
+        "area": 1,
+        "dec": "Run 800m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 272,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1008,
+        "value": 15,
+        "area": 1,
+        "dec": "Stay On The Wild Boar For 15 Seconds"
+    },
+    {
+        "id": 273,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 1,
+        "dec": "Smash Bush×25 In The Jungle"
+    },
+    {
+        "id": 274,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2000,
+        "area": 1,
+        "dec": "Run 2000m In The Jungle Single Set"
+    },
+    {
+        "id": 275,
+        "difficulty": 1,
+        "type": "RUN",
+        "target": 0,
+        "value": 4000,
+        "area": 1,
+        "dec": "Run 4000m In The Jungle"
+    },
+    {
+        "id": 276,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 25,
+        "area": 1,
+        "dec": "Ride  Wild Boar X25 In A Set"
+    },
+    {
+        "id": 277,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 3,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Rocks×13 In The Jungle"
+    },
+    {
+        "id": 278,
+        "difficulty": 0,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride 3 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 279,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1009,
+        "value": 20,
+        "area": 1,
+        "dec": "Tame Gorilla×20"
+    },
+    {
+        "id": 280,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Trees×15 In The Jungle"
+    },
+    {
+        "id": 281,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1009,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Gorilla  For 14 Seconds"
+    },
+    {
+        "id": 282,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1011,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Hippo"
+    },
+    {
+        "id": 283,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1010,
+        "value": 6,
+        "area": 1,
+        "dec": " Ride  Crocodile X6 In A Set"
+    },
+    {
+        "id": 284,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 500,
+        "area": 1,
+        "dec": "Run 500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 285,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 900,
+        "area": 1,
+        "dec": "Run 900m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 286,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1011,
+        "value": 16,
+        "area": 1,
+        "dec": "Stay On The Hippo  For 16 Seconds"
+    },
+    {
+        "id": 287,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 5,
+        "area": 1,
+        "dec": "Smash Trees×5 In The Jungle"
+    },
+    {
+        "id": 288,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2800,
+        "area": 1,
+        "dec": "Run 2800m In The Jungle Single Set"
+    },
+    {
+        "id": 289,
+        "difficulty": 2,
+        "type": "RUN",
+        "target": 0,
+        "value": 5000,
+        "area": 1,
+        "dec": "Run 5000m In The Jungle"
+    },
+    {
+        "id": 290,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1010,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride  Crocodile X3 In A Set"
+    },
+    {
+        "id": 291,
+        "difficulty": 0,
+        "type": "RIDE_STAY",
+        "target": 1010,
+        "value": 6,
+        "area": 1,
+        "dec": "Stay On The Crocodile  For 6 Seconds"
+    },
+    {
+        "id": 292,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 3 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 293,
+        "difficulty": 1,
+        "type": "RUN",
+        "target": 0,
+        "value": 3000,
+        "area": 1,
+        "dec": "Run 3000m In The Jungle"
+    },
+    {
+        "id": 294,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 5,
+        "area": 1,
+        "dec": "Smash Rocks×5 In The Jungle"
+    },
+    {
+        "id": 295,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Gorilla X10 In A Set"
+    },
+    {
+        "id": 296,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 35,
+        "value": 6,
+        "area": 1,
+        "dec": "Complete 6 35m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 297,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 1014,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Tucano"
+    },
+    {
+        "id": 298,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride  Tiger X3 In A Set"
+    },
+    {
+        "id": 299,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1000,
+        "area": 1,
+        "dec": "Run 1000m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 300,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1014,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Tucano  For 14 Seconds"
+    },
+    {
+        "id": 301,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Trees×10 In The Jungle"
+    },
+    {
+        "id": 302,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 3000,
+        "area": 1,
+        "dec": "Run 3000m In The Jungle Single Set"
+    },
+    {
+        "id": 303,
+        "difficulty": 2,
+        "type": "RUN",
+        "target": 0,
+        "value": 6000,
+        "area": 1,
+        "dec": "Run 6000m In The Jungle"
+    },
+    {
+        "id": 304,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1010,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride  Crocodile X5 In A Set"
+    },
+    {
+        "id": 305,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Trees×10 In The Jungle"
+    },
+    {
+        "id": 306,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1014,
+        "value": 2,
+        "area": 1,
+        "dec": "Ride  Tucano X2 In A Set"
+    },
+    {
+        "id": 307,
+        "difficulty": 2,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride 5 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 308,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1100,
+        "area": 1,
+        "dec": "Run 1100m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 309,
+        "difficulty": 1,
+        "type": "RUN",
+        "target": 0,
+        "value": 3000,
+        "area": 1,
+        "dec": "Run 3000m In The Jungle"
+    },
+    {
+        "id": 310,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Rocks×10 In The Jungle"
+    },
+    {
+        "id": 311,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1009,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Gorilla  For 14 Seconds"
+    },
+    {
+        "id": 312,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 35,
+        "value": 10,
+        "area": 1,
+        "dec": "Complete 10 35m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 313,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 9,
+        "area": 1,
+        "dec": "Ride Gorilla X9 In A Set"
+    },
+    {
+        "id": 314,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 21,
+        "area": 1,
+        "dec": "Ride  Wild Boar X21 In A Set"
+    },
+    {
+        "id": 315,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 242,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Wild Indian Boar"
+    },
+    {
+        "id": 316,
+        "difficulty": 0,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 500,
+        "area": 1,
+        "dec": "Run 500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 317,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1013,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Tiger  For 14 Seconds"
+    },
+    {
+        "id": 318,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 5,
+        "area": 1,
+        "dec": "Smash Rocks×5 In The Jungle"
+    },
+    {
+        "id": 319,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Trees×15 In The Jungle"
+    },
+    {
+        "id": 320,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 1300,
+        "area": 1,
+        "dec": "Run 1300m In The Jungle Single Set"
+    },
+    {
+        "id": 321,
+        "difficulty": 2,
+        "type": "RUN",
+        "target": 0,
+        "value": 10000,
+        "area": 1,
+        "dec": "Run 1000m In The Jungle"
+    },
+    {
+        "id": 322,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride Gorilla X6 In A Set"
+    },
+    {
+        "id": 323,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1008,
+        "value": 19,
+        "area": 1,
+        "dec": "Stay On The Wild Boar  For 19 Seconds"
+    },
+    {
+        "id": 324,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 4 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 325,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 3,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Rocks×13 In The Jungle"
+    },
+    {
+        "id": 326,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 18,
+        "area": 1,
+        "dec": "Smash Bush×18 In The Jungle"
+    },
+    {
+        "id": 327,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride Hippo X3 In A Set"
+    },
+    {
+        "id": 328,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 21,
+        "area": 1,
+        "dec": "Ride Wild Boar  X21 In A Set"
+    },
+    {
+        "id": 329,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1008,
+        "value": 60,
+        "area": 1,
+        "dec": "Ride Wild Boar ×60"
+    },
+    {
+        "id": 330,
+        "difficulty": 1,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 50,
+        "value": 2,
+        "area": 1,
+        "dec": "Complete 2 50m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 331,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 50,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 332,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 243,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Stay-At-Home Male Pigs"
+    },
+    {
+        "id": 333,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride Rhino X4 In A Set"
+    },
+    {
+        "id": 334,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1000,
+        "area": 1,
+        "dec": "Run 1000m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 335,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1013,
+        "value": 18,
+        "area": 1,
+        "dec": "Stay On The Tiger  For 18 Seconds"
+    },
+    {
+        "id": 336,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Rocks×10 In The Jungle"
+    },
+    {
+        "id": 337,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2000,
+        "area": 1,
+        "dec": "Run 2000m In The Jungle Single Set"
+    },
+    {
+        "id": 338,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 8,
+        "area": 1,
+        "dec": "Ride Gorilla X8 In A Set"
+    },
+    {
+        "id": 339,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 3,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Rocks×13 In The Jungle"
+    },
+    {
+        "id": 340,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride 5 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 341,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1009,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Gorilla  For 14 Seconds"
+    },
+    {
+        "id": 342,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride  Tiger X6 In A Set"
+    },
+    {
+        "id": 343,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 23,
+        "area": 1,
+        "dec": "Smash Bush×23 In The Jungle"
+    },
+    {
+        "id": 344,
+        "difficulty": 0,
+        "type": "RUN",
+        "target": 0,
+        "value": 2000,
+        "area": 1,
+        "dec": "Run 2000m In The Jungle"
+    },
+    {
+        "id": 345,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1008,
+        "value": 70,
+        "area": 1,
+        "dec": "Ride Wild Boar ×70"
+    },
+    {
+        "id": 346,
+        "difficulty": 2,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 70,
+        "value": 2,
+        "area": 1,
+        "dec": "Complete 2 70m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 347,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride Hippo X3 In A Set"
+    },
+    {
+        "id": 348,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 60,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 60 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 349,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 244,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Goblin Pigs"
+    },
+    {
+        "id": 350,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 351,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1010,
+        "value": 16,
+        "area": 1,
+        "dec": "Stay On The Crocodile  For 16 Seconds"
+    },
+    {
+        "id": 352,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Wild Boar  X10 In A Set"
+    },
+    {
+        "id": 353,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Rocks×15 In The Jungle"
+    },
+    {
+        "id": 354,
+        "difficulty": 1,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 355,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Gorilla X10 In A Set"
+    },
+    {
+        "id": 356,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 357,
+        "difficulty": 2,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride 6 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 358,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride Rhino X4 In A Set"
+    },
+    {
+        "id": 359,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride  Tiger X6 In A Set"
+    },
+    {
+        "id": 360,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 361,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 28,
+        "area": 1,
+        "dec": "Smash Bush×28 In The Jungle"
+    },
+    {
+        "id": 362,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 4 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 363,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1010,
+        "value": 20,
+        "area": 1,
+        "dec": "Ride Crocodile×20"
+    },
+    {
+        "id": 364,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 30,
+        "value": 30,
+        "area": 1,
+        "dec": "Complete 30 30m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 365,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 366,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 21,
+        "area": 1,
+        "dec": "Ride Wild Boar  X21 In A Set"
+    },
+    {
+        "id": 367,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 282,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Frog Crocodiles"
+    },
+    {
+        "id": 368,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1011,
+        "value": 18,
+        "area": 1,
+        "dec": "Stay On The Hippo  For 18 Seconds"
+    },
+    {
+        "id": 369,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 18,
+        "area": 1,
+        "dec": "Smash Bush×18 In The Jungle"
+    },
+    {
+        "id": 370,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Gorilla X10 In A Set"
+    },
+    {
+        "id": 371,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Rocks×10 In The Jungle"
+    },
+    {
+        "id": 372,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride  Tiger X3 In A Set"
+    },
+    {
+        "id": 373,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 1,
+        "dec": "Smash Bush×25 In The Jungle"
+    },
+    {
+        "id": 374,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride Rhino X4 In A Set"
+    },
+    {
+        "id": 375,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride 6 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 376,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Trees×8 In The Jungle"
+    },
+    {
+        "id": 377,
+        "difficulty": 1,
+        "type": "RIDE_DIF_ONE_TIME",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 4 Kinds Of Animals Continuously In The Jungle"
+    },
+    {
+        "id": 378,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1010,
+        "value": 30,
+        "area": 1,
+        "dec": "Ride Crocodile×30"
+    },
+    {
+        "id": 379,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 10,
+        "area": 1,
+        "dec": "Complete 10 40m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 380,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 50,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 381,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1009,
+        "value": 60,
+        "area": 1,
+        "dec": "Jump Off The Gorilla For 60 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 382,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 283,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Diving Crocodiles"
+    },
+    {
+        "id": 383,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1011,
+        "value": 25,
+        "area": 1,
+        "dec": "Stay On The Hippo  For 25 Seconds"
+    },
+    {
+        "id": 384,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 23,
+        "area": 1,
+        "dec": "Smash Bush×23 In The Jungle"
+    },
+    {
+        "id": 385,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1010,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Crocodile×10"
+    },
+    {
+        "id": 386,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1010,
+        "value": 20,
+        "area": 1,
+        "dec": "Stay On The Crocodile  For 20 Seconds"
+    },
+    {
+        "id": 387,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride  Tiger X5 In A Set"
+    },
+    {
+        "id": 388,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 389,
+        "difficulty": 0,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 4 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 390,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Trees×13 In The Jungle"
+    },
+    {
+        "id": 391,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 392,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1010,
+        "value": 40,
+        "area": 1,
+        "dec": "Ride Crocodile×40"
+    },
+    {
+        "id": 393,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 15,
+        "area": 1,
+        "dec": "Complete 15 40m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 394,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 60,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 60 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 395,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1009,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Gorilla For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 396,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 284,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Tugcrocodile"
+    },
+    {
+        "id": 397,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 3,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Rocks×15 In The Jungle"
+    },
+    {
+        "id": 398,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 1,
+        "value": 28,
+        "area": 1,
+        "dec": "Smash Bush×28 In The Jungle"
+    },
+    {
+        "id": 399,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1009,
+        "value": 20,
+        "area": 1,
+        "dec": "Tame Gorilla×20"
+    },
+    {
+        "id": 400,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride  Tiger X6 In A Set"
+    },
+    {
+        "id": 401,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Gorilla X10 In A Set"
+    },
+    {
+        "id": 402,
+        "difficulty": 0,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride 5 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 403,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 18,
+        "area": 1,
+        "dec": "Smash Trees×18 In The Jungle"
+    },
+    {
+        "id": 404,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1010,
+        "value": 20,
+        "area": 1,
+        "dec": "Ride Crocodile ×20"
+    },
+    {
+        "id": 405,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1009,
+        "value": 20,
+        "area": 1,
+        "dec": "Tame Gorilla×20"
+    },
+    {
+        "id": 406,
+        "difficulty": 1,
+        "type": "JUMP_LONG",
+        "target": 40,
+        "value": 20,
+        "area": 1,
+        "dec": "Complete 20 40m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 407,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1008,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Wild Boar For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 408,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1011,
+        "value": 50,
+        "area": 1,
+        "dec": "Jump Off The Rhinoceros For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 409,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 262,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Apes"
+    },
+    {
+        "id": 410,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1014,
+        "value": 17,
+        "area": 1,
+        "dec": "Stay On The Tucano  For 17 Seconds"
+    },
+    {
+        "id": 411,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Trees×8 In The Jungle"
+    },
+    {
+        "id": 412,
+        "difficulty": 0,
+        "type": "RIDE",
+        "target": 1013,
+        "value": 5,
+        "area": 1,
+        "dec": "Tame Tiger×5"
+    },
+    {
+        "id": 413,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 414,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride Hippo X3 In A Set"
+    },
+    {
+        "id": 415,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 416,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride 6 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 417,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 3,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Rocks×8 In The Jungle"
+    },
+    {
+        "id": 418,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1009,
+        "value": 30,
+        "area": 1,
+        "dec": "Tame Gorilla×30"
+    },
+    {
+        "id": 419,
+        "difficulty": 1,
+        "type": "JUMP_LONG",
+        "target": 50,
+        "value": 2,
+        "area": 1,
+        "dec": "Complete 2 50m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 420,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1009,
+        "value": 60,
+        "area": 1,
+        "dec": "Jump Off The Gorilla For 60 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 421,
+        "difficulty": 2,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1014,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Tucano For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 422,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 263,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Gorilla Quarterback"
+    },
+    {
+        "id": 423,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1014,
+        "value": 20,
+        "area": 1,
+        "dec": "Stay On The Tucano  For 20 Seconds"
+    },
+    {
+        "id": 424,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Trees×13 In The Jungle"
+    },
+    {
+        "id": 425,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 10,
+        "area": 1,
+        "dec": "Smash Rocks×10 In The Jungle"
+    },
+    {
+        "id": 426,
+        "difficulty": 1,
+        "type": "RUN_NO_JUMP",
+        "target": 0,
+        "value": 1500,
+        "area": 1,
+        "dec": "Run 1500m In The Jungle Single Set Without Transfering"
+    },
+    {
+        "id": 427,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride Hippo X5 In A Set"
+    },
+    {
+        "id": 428,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Trees×8 In The Jungle"
+    },
+    {
+        "id": 429,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 7,
+        "area": 1,
+        "dec": "Ride 7 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 430,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 3,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Rocks×13 In The Jungle"
+    },
+    {
+        "id": 431,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1009,
+        "value": 40,
+        "area": 1,
+        "dec": "Tame Gorilla×40"
+    },
+    {
+        "id": 432,
+        "difficulty": 1,
+        "type": "JUMP_LONG",
+        "target": 60,
+        "value": 3,
+        "area": 1,
+        "dec": "Complete 10 60m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 433,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1009,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Gorilla For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 434,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1014,
+        "value": 80,
+        "area": 1,
+        "dec": "Jump Off The Tucano For 80 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 435,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 264,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Guerrilla Gorilla "
+    },
+    {
+        "id": 436,
+        "difficulty": 0,
+        "type": "RIDE_STAY",
+        "target": 1008,
+        "value": 12,
+        "area": 1,
+        "dec": "Stay On The Wild Boar  For 12 Seconds"
+    },
+    {
+        "id": 437,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 2,
+        "value": 18,
+        "area": 1,
+        "dec": "Smash Trees×18 In The Jungle"
+    },
+    {
+        "id": 438,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 1,
+        "dec": "Smash Bush×25 In The Jungle"
+    },
+    {
+        "id": 439,
+        "difficulty": 1,
+        "type": "RIDE_STAY",
+        "target": 1009,
+        "value": 14,
+        "area": 1,
+        "dec": "Stay On The Gorilla For 14 Seconds"
+    },
+    {
+        "id": 440,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride Hippo X6 In A Set"
+    },
+    {
+        "id": 441,
+        "difficulty": 2,
+        "type": "CRASH",
+        "target": 2,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Trees×8 In The Jungle"
+    },
+    {
+        "id": 442,
+        "difficulty": 0,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride 4 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 443,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1013,
+        "value": 15,
+        "area": 1,
+        "dec": "Tame Tiger×15"
+    },
+    {
+        "id": 444,
+        "difficulty": 2,
+        "type": "JUMP_LONG",
+        "target": 80,
+        "value": 3,
+        "area": 1,
+        "dec": "Complete 3 8m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 445,
+        "difficulty": 0,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1011,
+        "value": 50,
+        "area": 1,
+        "dec": "Jump Off The Hippo For 50 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 446,
+        "difficulty": 0,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1012,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Rhinoceros For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 447,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 302,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Pygmy Hippo"
+    },
+    {
+        "id": 448,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 8,
+        "area": 1,
+        "dec": "Smash Rocks×8 In The Jungle"
+    },
+    {
+        "id": 449,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 450,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1014,
+        "value": 2,
+        "area": 1,
+        "dec": "Ride  Tucano X2 In A Set"
+    },
+    {
+        "id": 451,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 1,
+        "dec": "Smash Bush×25 In The Jungle"
+    },
+    {
+        "id": 452,
+        "difficulty": 0,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 5,
+        "area": 1,
+        "dec": "Ride 5 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 453,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1013,
+        "value": 20,
+        "area": 1,
+        "dec": "Tame Tiger×20"
+    },
+    {
+        "id": 454,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1014,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Tucano For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 455,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1012,
+        "value": 80,
+        "area": 1,
+        "dec": "Jump Off The Rhinoceros For 80 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 456,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 303,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Bullet Hippo"
+    },
+    {
+        "id": 457,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 3,
+        "value": 13,
+        "area": 1,
+        "dec": "Smash Rocks×13 In The Jungle"
+    },
+    {
+        "id": 458,
+        "difficulty": 2,
+        "type": "RIDE_STAY",
+        "target": 1008,
+        "value": 29,
+        "area": 1,
+        "dec": "Stay On The Wild Boar For 29 Seconds"
+    },
+    {
+        "id": 459,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1014,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride  Tucano X3 In A Set"
+    },
+    {
+        "id": 460,
+        "difficulty": 2,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Gorilla X10 In A Set"
+    },
+    {
+        "id": 461,
+        "difficulty": 1,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride 6 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 462,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1013,
+        "value": 25,
+        "area": 1,
+        "dec": "Tame Tiger×25"
+    },
+    {
+        "id": 463,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1014,
+        "value": 80,
+        "area": 1,
+        "dec": "Jump Off The Tucano For 80 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 464,
+        "difficulty": 1,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 25,
+        "value": 10,
+        "area": 1,
+        "dec": "Complete 10 25m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 465,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 304,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Rap Hippo"
+    },
+    {
+        "id": 466,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 1,
+        "value": 15,
+        "area": 1,
+        "dec": "Smash Bush×15 In The Jungle"
+    },
+    {
+        "id": 467,
+        "difficulty": 2,
+        "type": "RUN_IN_ONE",
+        "target": 0,
+        "value": 2500,
+        "area": 1,
+        "dec": "Run 2500m In The Jungle Single Set"
+    },
+    {
+        "id": 468,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1014,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride  Tucano X4 In A Set"
+    },
+    {
+        "id": 469,
+        "difficulty": 2,
+        "type": "RIDE_DIF_IN_ONE",
+        "target": 0,
+        "value": 7,
+        "area": 1,
+        "dec": "Ride 7 Kinds Of Animals At One Set In The Jungle"
+    },
+    {
+        "id": 470,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1011,
+        "value": 15,
+        "area": 1,
+        "dec": "Tame  Hippo×15"
+    },
+    {
+        "id": 471,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1012,
+        "value": 70,
+        "area": 1,
+        "dec": "Jump Off The Rhinoceros For 70 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 472,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 362,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Mouthpiece"
+    },
+    {
+        "id": 473,
+        "difficulty": 0,
+        "type": "CRASH",
+        "target": 1,
+        "value": 20,
+        "area": 1,
+        "dec": "Smash Bush×20 In The Jungle"
+    },
+    {
+        "id": 474,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 2,
+        "area": 1,
+        "dec": "Ride Rhino X2 In A Set"
+    },
+    {
+        "id": 475,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1011,
+        "value": 20,
+        "area": 1,
+        "dec": "Tame  Hippo×20"
+    },
+    {
+        "id": 476,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1012,
+        "value": 80,
+        "area": 1,
+        "dec": "Jump Off The Rhinoceros For 80 Meters And Then Ride The Other Animal"
+    },
+    {
+        "id": 477,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 363,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Blue Bird"
+    },
+    {
+        "id": 478,
+        "difficulty": 1,
+        "type": "CRASH",
+        "target": 1,
+        "value": 25,
+        "area": 1,
+        "dec": "Smash Bush×25 In The Jungle"
+    },
+    {
+        "id": 479,
+        "difficulty": 0,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride Rhino X3 In A Set"
+    },
+    {
+        "id": 480,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1011,
+        "value": 25,
+        "area": 1,
+        "dec": "Tame  Hippo×25"
+    },
+    {
+        "id": 481,
+        "difficulty": 1,
+        "type": "JUMP_LONG_IN_ONE",
+        "target": 25,
+        "value": 10,
+        "area": 1,
+        "dec": "Complete 10 25m Jumps In A Game In The Jungle"
+    },
+    {
+        "id": 482,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 364,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Mewmew Bird"
+    },
+    {
+        "id": 483,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride Rhino X4 In A Set"
+    },
+    {
+        "id": 484,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1014,
+        "value": 15,
+        "area": 1,
+        "dec": "Ride Tucano×15"
+    },
+    {
+        "id": 485,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 322,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Hawaii Rhino"
+    },
+    {
+        "id": 486,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 17,
+        "area": 1,
+        "dec": "Ride A Wild Boar  In A Game×17"
+    },
+    {
+        "id": 487,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1014,
+        "value": 20,
+        "area": 1,
+        "dec": "Ride Tucano×20"
+    },
+    {
+        "id": 488,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 323,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame Vegetable Rhino"
+    },
+    {
+        "id": 489,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1010,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride A Crocodile In A Game×6"
+    },
+    {
+        "id": 490,
+        "difficulty": 2,
+        "type": "RIDE",
+        "target": 1014,
+        "value": 25,
+        "area": 1,
+        "dec": "Ride Tucano×25"
+    },
+    {
+        "id": 491,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 324,
+        "value": 1,
+        "area": 1,
+        "dec": "Ride  Cat Rhino"
+    },
+    {
+        "id": 492,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 7,
+        "area": 1,
+        "dec": "Ride A Tiger In A Game×7"
+    },
+    {
+        "id": 493,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1012,
+        "value": 10,
+        "area": 1,
+        "dec": "Ride Rhino×10"
+    },
+    {
+        "id": 494,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 342,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame TheLiger"
+    },
+    {
+        "id": 495,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1014,
+        "value": 2,
+        "area": 1,
+        "dec": "Ride A Tucano In A Game×2"
+    },
+    {
+        "id": 496,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1012,
+        "value": 15,
+        "area": 1,
+        "dec": "Ride Rhino×15"
+    },
+    {
+        "id": 497,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 343,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The Lieds Tiger"
+    },
+    {
+        "id": 498,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1009,
+        "value": 9,
+        "area": 1,
+        "dec": "Ride A Gorilla In A Game×9"
+    },
+    {
+        "id": 499,
+        "difficulty": 1,
+        "type": "RIDE",
+        "target": 1012,
+        "value": 20,
+        "area": 1,
+        "dec": "Ride Rhino×20"
+    },
+    {
+        "id": 500,
+        "difficulty": 0,
+        "type": "ANIMAL",
+        "target": 344,
+        "value": 1,
+        "area": 1,
+        "dec": "Tame The White Tiger"
+    },
+    {
+        "id": 501,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1013,
+        "value": 6,
+        "area": 1,
+        "dec": "Ride A Tigger In A Game×6"
+    },
+    {
+        "id": 502,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1011,
+        "value": 3,
+        "area": 1,
+        "dec": "Ride A Hippo In A Game×3"
+    },
+    {
+        "id": 503,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1008,
+        "value": 21,
+        "area": 1,
+        "dec": "Ride A Wild Boar In A Game×21"
+    },
+    {
+        "id": 504,
+        "difficulty": 1,
+        "type": "RIDE_CNT",
+        "target": 1012,
+        "value": 4,
+        "area": 1,
+        "dec": "Ride A Rhinocero In A Game×4"
+    },
+    {
+        "id": 505,
+        "difficulty": 1,
+        "type": "JUMP_ANIMAL_FROM",
+        "target": 1012,
+        "value": 70,
+        "area": 1,
+        "dec": " Jump Off The Rhino After 70 Meters And Mount Another Animal"
+    }
+]

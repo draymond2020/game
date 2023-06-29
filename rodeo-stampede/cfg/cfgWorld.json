@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Savanna",
+        "worldName": "AFR",
+        "maps": [
+            {
+                "name": "Savanna 1",
+                "animals": [
+                    1001,
+                    1002,
+                    1003
+                ],
+                "special": [
+                    1000
+                ],
+                "task": {}
+            },
+            {
+                "name": "Savanna 2",
+                "animals": [
+                    1001,
+                    1002,
+                    1003,
+                    1004
+                ],
+                "task": {}
+            },
+            {
+                "name": "Savanna 3",
+                "animals": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005
+                ],
+                "task": {}
+            },
+            {
+                "name": "Savanna 4",
+                "animals": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006
+                ],
+                "task": {}
+            },
+            {
+                "name": "Savanna 5",
+                "animals": [
+                    1001,
+                    1002,
+                    1003,
+                    1004,
+                    1005,
+                    1006,
+                    1007
+                ],
+                "task": {}
+            }
+        ]
+    },
+    {
+        "name": "Jungle",
+        "worldName": "JUN",
+        "maps": [
+            {
+                "name": "Jungle 1",
+                "animals": [
+                    1008,
+                    1009,
+                    1010
+                ],
+                "task": {}
+            },
+            {
+                "name": "Jungle 2",
+                "animals": [
+                    1008,
+                    1009,
+                    1010,
+                    1011
+                ],
+                "task": {}
+            },
+            {
+                "name": "Jungle 3",
+                "animals": [
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012
+                ],
+                "task": {}
+            },
+            {
+                "name": "Jungle 4",
+                "animals": [
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012,
+                    1013
+                ],
+                "task": {}
+            },
+            {
+                "name": "Jungle 5",
+                "animals": [
+                    1008,
+                    1009,
+                    1010,
+                    1011,
+                    1012,
+                    1013,
+                    1014
+                ],
+                "task": {}
+            }
+        ]
+    }
+]

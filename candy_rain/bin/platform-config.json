@@ -1,0 +1,18 @@
+{
+    "platform": "azerion",
+    "gameSlug": "candy-rain-7",
+    "gameBuild": "1.1.7",
+    "gameID": "bb8da035bcac408090ccdf9aa01d6a7f",
+    "gameTitle": "Candy Rain 7",
+    "interface": "FBInstant",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": true,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": true,
+      "supportsAdPlayButton": false
+    }
+  }

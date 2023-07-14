@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candy_rain/bin/lib/AzerionWrapper_v1.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/lib/AzerionWrapper_v1.0.0.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +23,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/candy_rain/bin/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/candy_rain/bin/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/candy_rain/bin/lib" />
       <recent name="$PROJECT_DIR$/candy_rain/bin/js" />
     </key>
   </component>
@@ -84,6 +87,8 @@
       <workItem from="1689293063225" duration="173000" />
       <workItem from="1689306655839" duration="66000" />
       <workItem from="1689307708625" duration="1290000" />
+      <workItem from="1689313360477" duration="118000" />
+      <workItem from="1689324088435" duration="108000" />
     </task>
     <servers />
   </component>

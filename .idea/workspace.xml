@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candy_rain/bin/platform-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/platform-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +35,20 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/basketball/bin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/candy_rain/bin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/bubbleShooter/bin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
@@ -93,7 +101,8 @@
       <workItem from="1689382206903" duration="239000" />
       <workItem from="1689404694066" duration="157000" />
       <workItem from="1689417585427" duration="427000" />
-      <workItem from="1690016508363" duration="39000" />
+      <workItem from="1690016508363" duration="1548000" />
+      <workItem from="1690022345673" duration="913000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.1/howler.min.js" integrity="sha512-L6Z/YtIPQ7eU3BProP34WGU5yIRk7tNHk7vaC2dB1Vy1atz6wl9mCkTPPZ2Rn1qPr+vY2mZ9odZLdGYuaBk7dQ==" crossorigin="anonymous"></script>
+  <meta name="screen-orientation" content="portrait" />
+  <title>New Daily Sudoku</title>
+
+  <style type="text/css">
+    #orientation {
+      margin: 0 auto;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('rotate.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-color: rgb(0, 0, 0);
+      z-index: 999;
+      display: none;
+    }
+  </style>
+
+<link href="css/app.4ce23251.css" rel="preload" as="style"><link href="js/app.js" rel="preload" as="script"><link href="js/chunk-vendors.js" rel="preload" as="script"><link href="css/app.4ce23251.css" rel="stylesheet"></head>
+
+<body>
+  <div id="orientation"></div>
+  <div id="app"></div>
+  <script src="lib/AzerionWrapper_v1.0.0.js"></script>
+  <script>
+    function isMobileDevice() {
+       const toMatch = [
+             /Android/i,
+             /webOS/i,
+             /iPhone/i,
+             /iPad/i,
+             /iPod/i,
+             /BlackBerry/i,
+             /Windows Phone/i,
+             /Samsung/i,
+             /SamsungBrowser/i,
+             /SAMSUNG/i
+           ];
+           var isIncluded = toMatch.some((toMatchItem) => {
+             return navigator.userAgent.match(toMatchItem);
+           });
+           var isIpad = /Macintosh/i.test(navigator.userAgent) && navigator.maxTouchPoints && navigator.maxTouchPoints > 1;
+ 
+           return isIncluded || isIpad;
+     };
+     if (isMobileDevice()) {
+       var setOrientation = () => {
+         document.getElementById("orientation").style.display = (window.orientation == 0) ? "none" : "block";
+       }
+ 
+       window.addEventListener("orientationchange", () => {
+         setOrientation();
+       });
+       setOrientation();
+       window.setTimeout(() => {
+         setOrientation();
+       }, 1000)
+     }
+   </script>
+<script type="text/javascript" src="js/chunk-vendors.js"></script><script type="text/javascript" src="js/app.js"></script></body>
+
+</html>

@@ -1,0 +1,18 @@
+version: "2.2"
+services:
+  nginx:
+    image: nginx:1.25.1
+    container_name: nginx
+    restart: always
+    ports:
+        - 80:80
+        - 443:443
+    volumes:
+        - /etc/nginx:/etc/nginx
+        - /root/workdir/games:/usr/share/nginx/game-html/games
+    entrypoint: ["nginx", "-g", "daemon off;", "-c", "/etc/nginx/nginx-docker.conf"]
+    environment:
+      probe_type: 0
+      idc_code: 'CN0SH000001'
+      master_host: "http://8.219.213.11:9000/cstsapi"
+      export_ip: '120.46.173.18'

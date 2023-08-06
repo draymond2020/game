@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tennis/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tennis/bin/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
       <recent name="$PROJECT_DIR$/candy_rain/bin/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/tennis/bin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -50,8 +49,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
@@ -115,7 +114,7 @@
       <workItem from="1690633277257" duration="93000" />
       <workItem from="1690633393770" duration="1450000" />
       <workItem from="1691246622842" duration="481000" />
-      <workItem from="1691278619429" duration="6795000" />
+      <workItem from="1691278619429" duration="7333000" />
     </task>
     <servers />
   </component>

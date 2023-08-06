@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/billiards/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/billiards/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bubbleShooter/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bubbleShooter/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rodeo-stampede/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rodeo-stampede/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sudoku/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sudoku/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tennis/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tennis/bin/index.html" afterDir="false" />
@@ -45,7 +46,7 @@
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/rodeo-stampede/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/bubbleShooter/bin/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/basketball/bin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/bike/bin/index.html" useBuiltInWebServerPort="true">
@@ -57,10 +58,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +122,7 @@
       <workItem from="1690633277257" duration="93000" />
       <workItem from="1690633393770" duration="1450000" />
       <workItem from="1691246622842" duration="481000" />
-      <workItem from="1691278619429" duration="3356000" />
+      <workItem from="1691278619429" duration="4573000" />
     </task>
     <servers />
   </component>

@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basketball/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/basketball/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billiards/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/billiards/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubbleShooter/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bubbleShooter/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rodeo-stampede/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rodeo-stampede/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sudoku/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sudoku/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tennis/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tennis/bin/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/candy_rain/bin/lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -120,7 +115,7 @@
       <workItem from="1690633277257" duration="93000" />
       <workItem from="1690633393770" duration="1450000" />
       <workItem from="1691246622842" duration="481000" />
-      <workItem from="1691278619429" duration="5813000" />
+      <workItem from="1691278619429" duration="6335000" />
     </task>
     <servers />
   </component>

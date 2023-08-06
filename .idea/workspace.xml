@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/billiards/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/billiards/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bubbleShooter/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bubbleShooter/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/candy_rain/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/candy_rain/bin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rodeo-stampede/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rodeo-stampede/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sudoku/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sudoku/bin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tennis/bin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tennis/bin/index.html" afterDir="false" />
@@ -39,11 +38,11 @@
       <recent name="$PROJECT_DIR$/candy_rain/bin/js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/billiards/bin/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/rodeo-stampede/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/rodeo-stampede/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/sudoku/bin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/basketball/bin/index.html" useBuiltInWebServerPort="true">
@@ -57,11 +56,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +121,7 @@
       <workItem from="1690633277257" duration="93000" />
       <workItem from="1690633393770" duration="1450000" />
       <workItem from="1691246622842" duration="481000" />
-      <workItem from="1691278619429" duration="4573000" />
+      <workItem from="1691278619429" duration="5254000" />
     </task>
     <servers />
   </component>

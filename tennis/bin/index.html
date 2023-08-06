@@ -144,6 +144,8 @@
             // 手指按下时的坐标
             starX = e.touches[0].clientX;
             starY = e.touches[0].clientY;
+            starXEnd = 0;
+            starYEnd = 0;
         });
 
         oDiv.addEventListener('touchmove', function (e) {
@@ -175,7 +177,7 @@
         oDiv.addEventListener('touchend', function () {
             // console.log(e);
             // 鼠标点击的坐标 和 抬起额坐标一致 就是点击事件
-            if (beforeX === this.offsetLeft && beforeY === this.offsetTop) {
+            if (Math.abs(starYEnd) < 10) {
                 window.history.back();
             }
         });

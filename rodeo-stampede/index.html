@@ -43,6 +43,7 @@
 <body>
 
     <div id="lnZDTX", class="sc-1qqf4i2-0 lnZDTX" style="--mobileNavDragY: 45.5340576171875px;display: flex;
+                                                                                                        visibility:hidden;
                                                                                                         align-items: center;
                                                                                                         position: fixed;
                                                                                                         z-index: 101;
@@ -70,12 +71,33 @@
     </script>
     <script type="text/javascript" src="index.js"></script>
     <script>
-        // window.onload = function () {
-        // 标记是拖曳还是点击
+        function isMobileDevice() {
+            const toMatch = [
+                /Android/i,
+                /webOS/i,
+                /iPhone/i,
+                /iPad/i,
+                /iPod/i,
+                /BlackBerry/i,
+                /Windows Phone/i,
+                /Samsung/i,
+                /SamsungBrowser/i,
+                /SAMSUNG/i
+            ];
+            var isIncluded = toMatch.some((toMatchItem) => {
+                return navigator.userAgent.match(toMatchItem);
+            });
+            var isIpad = /Macintosh/i.test(navigator.userAgent) && navigator.maxTouchPoints && navigator.maxTouchPoints > 1;
+
+            return isIncluded || isIpad;
+        };
         var oDiv = document.getElementById('lnZDTX');
+        // 标记是拖曳还是点击
         var disX, moveX, L, T, starX, starY, starXEnd, starYEnd;
         let style = oDiv.style;
+        style.visibility = isMobileDevice() ? "" : "hidden";
         let beforeX, beforeY; // 鼠标点击的坐标
+        // window.onload = function () {
         var is_clicked = false;
 
         oDiv.addEventListener('click', function(e){

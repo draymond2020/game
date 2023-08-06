@@ -42,7 +42,7 @@
                                                                                                         box-shadow: rgba(0, 0, 0, 0.24) 0px 16px 32px;
                                                                                                         border-radius: 0px 16px 16px 0px;
                                                                                                         overflow: hidden;
-                                                                                                        transform: translate(0,var(--mobileNavDragY,24px));" onclick="window.history.back();">
+                                                                                                        transform: translate(0,var(--mobileNavDragY,24px));">
         <div class="sc-1qqf4i2-1 hsQOlF">
             <span class="sc-woh2fi-0 evgOqe sc-1qqf4i2-3 gSUqiQ">
                 <img class="img-arrow-left" src="../../re/home.png" height="36" width="36">
@@ -57,6 +57,141 @@
         if (chrome.app.isInstalled) {
             document.getElementById('add-to-chrome-button').style.display = 'none';
         }
+    </script>
+    <script>
+        // window.onload = function () {
+        // 标记是拖曳还是点击
+        var oDiv = document.getElementById('lnZDTX');
+        var disX, moveX, L, T, starX, starY, starXEnd, starYEnd;
+        let style = oDiv.style;
+        let beforeX, beforeY; // 鼠标点击的坐标
+        var is_clicked = false;
+
+        oDiv.addEventListener('click', function(e){
+            var mousemove_fun = function(eve){
+                L = e.clientX - disX;
+                T = e.clientY - disY;
+                L = 0;
+                moveX = L + 'px';
+                moveY = T + 'px';
+                style.left = moveX;
+                style.top = moveY;
+            }
+
+            if (is_clicked){
+                is_clicked = false;
+                // oDiv.style.backgroundColor="red";
+                oDiv.removeEventListener("mousemove", mousemove_fun);
+            }else{
+                is_clicked = true;
+                // oDiv.style.backgroundColor="black";
+
+                disX = e.clientX - this.offsetLeft;
+                disY = e.clientY - this.offsetTop;
+
+                oDiv.addEventListener("mousemove", mousemove_fun);
+            }
+        });
+
+        oDiv.addEventListener('dragstart', function(e){
+            // console.log(e);
+            disX = e.clientX - this.offsetLeft;
+            disY = e.clientY - this.offsetTop;
+        });
+
+        oDiv.addEventListener('drag', function(e){
+            L = e.clientX - disX;
+            T = e.clientY - disY;
+
+            if (L < 0) {
+                L = 0;
+            } else if (L > document.documentElement.clientWidth - this.offsetWidth) {
+                L = document.documentElement.clientWidth - this.offsetWidth;
+            }
+            if (T < 0) {
+                T = 0;
+            } else if (T > (document.documentElement.clientHeight - 50) - this.offsetHeight) {
+                T = (document.documentElement.clientHeight - 50) - this.offsetHeight;
+            }
+            L = 0;
+            moveX = L + 'px';
+            moveY = T + 'px';
+            style.left = moveX;
+            style.top = moveY;
+            e.preventDefault();
+        });
+
+        oDiv.addEventListener('dragend', function(e){
+            // console.log(e);
+            L = e.clientX - disX;
+            T = e.clientY - disY;
+            if (L < 0) {
+                L = 0;
+            } else if (L > document.documentElement.clientWidth - this.offsetWidth) {
+                L = document.documentElement.clientWidth - this.offsetWidth;
+            }
+            if (T < 0) {
+                T = 0;
+            } else if (T > (document.documentElement.clientHeight - 50) - this.offsetHeight) {
+                T = (document.documentElement.clientHeight - 50) - this.offsetHeight;
+            }
+            L = 0;
+            moveX = L + 'px';
+            moveY = T + 'px';
+            style.left = moveX;
+            style.top = moveY;
+            e.preventDefault();
+        });
+
+        oDiv.addEventListener('touchstart', function (e) {
+            // console.log(e);
+            beforeX = this.offsetLeft;
+            beforeY = this.offsetTop;
+
+            e.preventDefault();
+            // 阻止触摸时页面的滚动，缩放
+            disX = e.touches[0].clientX - this.offsetLeft;
+            disY = e.touches[0].clientY - this.offsetTop;
+            // 手指按下时的坐标
+            starX = e.touches[0].clientX;
+            starY = e.touches[0].clientY;
+        });
+
+        oDiv.addEventListener('touchmove', function (e) {
+            // console.log(e);
+            L = e.touches[0].clientX - disX;
+            T = e.touches[0].clientY - disY; // 移动时 当前位置与起始位置之间的差值
+            starXEnd = e.touches[0].clientX - starX;
+            starYEnd = e.touches[0].clientY - starY;
+
+            if (L < 0) {
+                // 限制拖拽的X范围，不能拖出屏幕
+                L = 0;
+            } else if (L > document.documentElement.clientWidth - this.offsetWidth) {
+                L = document.documentElement.clientWidth - this.offsetWidth;
+            }
+            if (T < 0) {
+                // 限制拖拽的Y范围，不能拖出屏幕
+                T = 0;
+            } else if (T > (document.documentElement.clientHeight - 50) - this.offsetHeight) {
+                T = (document.documentElement.clientHeight - 50) - this.offsetHeight;
+            }
+            L = 0;
+            moveX = L + 'px';
+            moveY = T + 'px';
+            style.left = moveX;
+            style.top = moveY;
+        });
+
+        oDiv.addEventListener('touchend', function () {
+            // console.log(e);
+            // 鼠标点击的坐标 和 抬起额坐标一致 就是点击事件
+            if (beforeX === this.offsetLeft && beforeY === this.offsetTop) {
+                window.history.back();
+            }
+        });
+
+        // }
     </script>
 </body>
 </html>

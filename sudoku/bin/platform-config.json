@@ -1,0 +1,17 @@
+{
+  "platform": "azerion",
+  "gameSlug": "daily sudoku",
+  "gameBuild": "1.4.1",
+  "gameID": "44b487be5b9165257d6226ec398c589e",
+  "gameTitle": "Daily Sudoku",
+  "interface": "sgSdk",
+  "leaderboardSupport": false,
+  "adsConfig": {
+    "adFreeInitialLevels": 0,
+    "interstitialCooldownLevel": 0,
+    "longGameplayCooldownMS": 150000,
+    "enableLongGameplayAds": true,
+    "rewarded": true,
+    "supportsAdPlayButton": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "platform": "azerion",
+    "gameSlug": "bubbleshooter",
+    "gameBuild": "1.5.3",
+    "gameID": "bf9541f07e8645dcbb1470827c3a26c0",
+    "gameTitle": "Bubble Shooter",
+    "interface": "sgSdk",
+    "leaderboardSupport": false,
+    "inAppPurchase": false,
+    "adsConfig": {
+      "rewarded": false,
+      "adFreeInitialLevels": 0,
+      "interstitialCooldownLevel": 0,
+      "longGameplayCooldownMS": 150000,
+      "enableLongGameplayAds": false,
+      "supportsAdPlayButton": true
+    }
+  }

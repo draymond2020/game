@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f02b1d7d-4b12-4569-b2a2-5e49a4d9b448" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +21,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/candy_rain/bin/lib" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/candy_rain/bin/lib" />
+      <recent name="$PROJECT_DIR$/candy_rain/bin/js" />
+    </key>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/basketball/bin/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/tennis/bin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/sudoku/bin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/basketball/bin/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/bike/bin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/games/index.html" useBuiltInWebServerPort="true">
@@ -36,6 +51,9 @@
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -75,7 +93,30 @@
       <workItem from="1688946121606" duration="610000" />
       <workItem from="1689221247185" duration="1403000" />
       <workItem from="1689230858718" duration="660000" />
-      <workItem from="1689232745805" duration="205000" />
+      <workItem from="1689232745805" duration="653000" />
+      <workItem from="1689264839806" duration="598000" />
+      <workItem from="1689293063225" duration="173000" />
+      <workItem from="1689306655839" duration="66000" />
+      <workItem from="1689307708625" duration="1290000" />
+      <workItem from="1689313360477" duration="118000" />
+      <workItem from="1689324088435" duration="218000" />
+      <workItem from="1689324665226" duration="102000" />
+      <workItem from="1689330418452" duration="126000" />
+      <workItem from="1689382206903" duration="239000" />
+      <workItem from="1689404694066" duration="157000" />
+      <workItem from="1689417585427" duration="427000" />
+      <workItem from="1690016508363" duration="1548000" />
+      <workItem from="1690022345673" duration="1539000" />
+      <workItem from="1690083926209" duration="4275000" />
+      <workItem from="1690111061123" duration="1739000" />
+      <workItem from="1690605751115" duration="5657000" />
+      <workItem from="1690622562482" duration="181000" />
+      <workItem from="1690633277257" duration="93000" />
+      <workItem from="1690633393770" duration="1450000" />
+      <workItem from="1691246622842" duration="481000" />
+      <workItem from="1691278619429" duration="7734000" />
+      <workItem from="1691311695211" duration="518000" />
+      <workItem from="1691314924969" duration="317000" />
     </task>
     <servers />
   </component>

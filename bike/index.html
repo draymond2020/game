@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="application-name" content="Free Rider Jumps" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!-- Web Manifest-->
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Free Rider Jumps</title>
+    <meta name="description" content="Compete for highest scores against friends by racing your stickman bike farthest and with best tricks!" />
+    <link rel="stylesheet" type="text/css" href="styles/styles.css" />
+</head>
+<body>
+    <div class="game-container" id="game-container">
+
+        <div class="centered-container">
+            <div class="freerider-canvas-container" id="freerider-canvas-container" style="visibility: hidden"></div>
+        </div>
+
+        <div class="centered-container">
+            <div class="phaser-canvas-container" id="phaser-canvas-container"></div>
+        </div>
+
+        <div id="ads-container" class="ads-container centered-container" style="display:none">
+            <video id="ads-player">
+            </video>
+            <div id="ads-sdk-container" class="ads-container centered-container"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="libs/eventemitter3/index.js"></script>
+    <script type="text/javascript" src="libs/phaser/phaser.js"></script>
+    <script type="text/javascript" src="libs/webfontloader/webfontloader.js"></script>
+    <script defer="defer" src="bundle.js"></script>
+    <script>
+        if (chrome.app.isInstalled) {
+            document.getElementById('add-to-chrome-button').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
